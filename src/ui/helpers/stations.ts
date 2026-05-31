@@ -1,4 +1,4 @@
-import type { EpisodeMetadata, RadioStation } from "@/fetch-data/feed-data";
+import type { EpisodeMetadata, RadioStation } from "@/common/feed-data";
 import { leastCommonMultiple } from "./primes";
 
 /**

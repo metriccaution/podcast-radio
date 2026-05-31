@@ -1,6 +1,6 @@
 import { describe, expect, test } from "bun:test";
 import { getCurrent } from "./timing";
-import type { EpisodeMetadata } from "@/fetch-data/feed-data";
+import type { EpisodeMetadata } from "@/common/feed-data";
 
 const makeEpisode = (durationSeconds: number, n = 1): EpisodeMetadata => ({
   feed: "Test Feed",

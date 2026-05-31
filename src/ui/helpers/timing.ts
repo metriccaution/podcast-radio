@@ -1,4 +1,4 @@
-import type { EpisodeMetadata } from "@/fetch-data/feed-data";
+import type { EpisodeMetadata } from "@/common/feed-data";
 
 /**
  * Calculates which episode in a station's list is currently "on air" and how

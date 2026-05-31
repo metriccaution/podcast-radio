@@ -1,4 +1,4 @@
-import type { EpisodeMetadata } from "@/fetch-data/feed-data";
+import type { EpisodeMetadata } from "@/common/feed-data";
 import type { FC } from "react";
 import AudioPlayer from "./audio";
 

@@ -44,7 +44,10 @@ const Player: FC<AudioPlayerProps> = ({
    */
   useEffect(() => {
     if (playing) {
-      ref.current?.play();
+      ref.current?.play().catch((err) => {
+        if (err instanceof DOMException && err.name === "AbortError") return;
+        throw err;
+      });
     } else {
       ref.current?.pause();
     }

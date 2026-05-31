@@ -1,12 +1,12 @@
 import { XMLParser } from "fast-xml-parser";
 import { z } from "zod";
-import type { EpisodeMetadata, FeedMetadata } from "../feed-data";
+import type { EpisodeMetadata, FeedMetadata } from "@/common/feed-data";
 import dayjs from "dayjs";
 import dateParse from "dayjs/plugin/customParseFormat";
 dayjs.extend(dateParse);
 
 export async function fetchAndParse(url: URL): Promise<ParseResults> {
-  return parseXml(parseRss(await loadRss(url)));
+  return parseXml(parseRss(await loadRss(url)), url);
 }
 
 export async function loadRss(url: URL): Promise<string> {
@@ -24,6 +24,8 @@ const rss = z.object({
       title: z.string(),
       link: z.url().optional(),
       description: z.string(),
+      "itunes:image": z.object({ "@_href": z.string() }).optional(),
+      image: z.object({ url: z.string() }).optional(),
       item: z.array(
         z.object({
           guid: z.union([
@@ -36,6 +38,7 @@ const rss = z.object({
           link: z.url().optional(),
           pubDate: z.string(),
           "itunes:duration": z.union([z.string(), z.number()]).optional(),
+          "itunes:image": z.object({ "@_href": z.string() }).optional(),
           enclosure: z
             .object({
               "@_url": z.url(),
@@ -71,8 +74,22 @@ const lowerDateBound = new Date("1998-10-01T00:00:00.000Z").getTime();
 /**
  * Turn raw XML-like objects into my own format for the bits I need.
  */
-export function parseXml(parsed: RssContent): ParseResults {
-  // TODO
+export function parseXml(parsed: RssContent, baseUrl: URL): ParseResults {
+  function resolveImage(raw: string | undefined): string | undefined {
+    if (!raw) return undefined;
+    try {
+      const resolved = new URL(raw, baseUrl);
+      resolved.protocol = "https:";
+      return resolved.href;
+    } catch {
+      return undefined;
+    }
+  }
+
+  const channelImage = resolveImage(
+    parsed.rss.channel["itunes:image"]?.["@_href"] ??
+      parsed.rss.channel.image?.url,
+  );
 
   return {
     feed: {
@@ -80,6 +97,7 @@ export function parseXml(parsed: RssContent): ParseResults {
       // TODO - Remove HTML from here
       description: parsed.rss.channel.description,
       link: parsed.rss.channel.link,
+      imageUrl: channelImage,
     },
     episodes: parsed.rss.channel.item
       .map((episode, index) => ({
@@ -97,6 +115,7 @@ export function parseXml(parsed: RssContent): ParseResults {
           durationSeconds: parseDuration(episode["itunes:duration"]),
           infoLink: episode.link,
           mediaLink: episode.enclosure?.["@_url"]!,
+          imageUrl: resolveImage(episode["itunes:image"]?.["@_href"]),
         }),
       )
       // Filter out everything where the duration seems off

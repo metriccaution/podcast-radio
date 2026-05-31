@@ -33,10 +33,13 @@ describe("parseDuration", () => {
   }
 });
 
+const testBaseUrl = new URL("https://feeds.example.com/feed.xml");
+
 const minimalRssXml = (overrides: {
   title?: string;
   link?: string;
   description?: string;
+  channelExtra?: string;
   items?: string;
 }) => `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
@@ -44,6 +47,7 @@ const minimalRssXml = (overrides: {
     <title>${overrides.title ?? "Test Podcast"}</title>
     ${overrides.link ? `<link>${overrides.link}</link>` : ""}
     <description>${overrides.description ?? "A test feed"}</description>
+    ${overrides.channelExtra ?? ""}
     ${overrides.items ?? ""}
   </channel>
 </rss>`;
@@ -111,7 +115,7 @@ describe("parseXml", () => {
       description: "Show description",
       items: twoItems,
     });
-    const { feed } = parseXml(parseRss(xml));
+    const { feed } = parseXml(parseRss(xml), testBaseUrl);
     expect(feed.title).toBe("My Show");
     expect(feed.link).toBe("https://myshow.com");
     expect(feed.description).toBe("Show description");
@@ -124,7 +128,7 @@ describe("parseXml", () => {
         minimalItem({ guid: "ep2", title: "Ep 2" }) +
         minimalItem({ guid: "ep1", title: "Ep 1" }),
     });
-    const { episodes } = parseXml(parseRss(xml));
+    const { episodes } = parseXml(parseRss(xml), testBaseUrl);
     expect(episodes[0]!.episodeNumber).toBe(3);
     expect(episodes[1]!.episodeNumber).toBe(2);
     expect(episodes[2]!.episodeNumber).toBe(1);
@@ -139,7 +143,7 @@ describe("parseXml", () => {
   <itunes:duration>1:00:00</itunes:duration>
 </item>`;
     const xml = minimalRssXml({ items: validItem2 + itemWithoutEnclosure });
-    const { episodes } = parseXml(parseRss(xml));
+    const { episodes } = parseXml(parseRss(xml), testBaseUrl);
     expect(episodes).toHaveLength(1);
   });
 
@@ -152,14 +156,14 @@ describe("parseXml", () => {
   <enclosure url="https://example.com/ep.mp3" type="audio/mpeg"/>
 </item>`;
     const xml = minimalRssXml({ items: validItem2 + itemWithoutDuration });
-    const { episodes } = parseXml(parseRss(xml));
+    const { episodes } = parseXml(parseRss(xml), testBaseUrl);
     expect(episodes).toHaveLength(1);
   });
 
   test("filters out episodes shorter than 60 seconds", () => {
     const shortItem = minimalItem({ guid: "short", duration: "0:45" });
     const xml = minimalRssXml({ items: validItem2 + shortItem });
-    const { episodes } = parseXml(parseRss(xml));
+    const { episodes } = parseXml(parseRss(xml), testBaseUrl);
     expect(episodes).toHaveLength(1);
   });
 
@@ -169,7 +173,7 @@ describe("parseXml", () => {
       pubDate: "Mon, 01 Jan 2099 10:00:00 GMT",
     });
     const xml = minimalRssXml({ items: validItem2 + futureItem });
-    const { episodes } = parseXml(parseRss(xml));
+    const { episodes } = parseXml(parseRss(xml), testBaseUrl);
     expect(episodes).toHaveLength(1);
   });
 
@@ -179,7 +183,7 @@ describe("parseXml", () => {
       pubDate: "Mon, 01 Jan 1990 10:00:00 GMT",
     });
     const xml = minimalRssXml({ items: validItem2 + ancientItem });
-    const { episodes } = parseXml(parseRss(xml));
+    const { episodes } = parseXml(parseRss(xml), testBaseUrl);
     expect(episodes).toHaveLength(1);
   });
 
@@ -192,7 +196,7 @@ describe("parseXml", () => {
           enclosureUrl: "https://cdn.example.com/audio.mp3",
         }),
     });
-    const { episodes } = parseXml(parseRss(xml));
+    const { episodes } = parseXml(parseRss(xml), testBaseUrl);
     const ep = episodes.find(
       (e) => e.mediaLink === "https://cdn.example.com/audio.mp3",
     );
@@ -201,7 +205,60 @@ describe("parseXml", () => {
 
   test("sets feed name from channel title", () => {
     const xml = minimalRssXml({ title: "My Podcast", items: twoItems });
-    const { episodes } = parseXml(parseRss(xml));
+    const { episodes } = parseXml(parseRss(xml), testBaseUrl);
     expect(episodes[0]!.feed).toBe("My Podcast");
+  });
+
+  test("captures channel itunes:image as feed imageUrl", () => {
+    const xml = minimalRssXml({
+      channelExtra: `<itunes:image href="https://example.com/cover.jpg"/>`,
+      items: twoItems,
+    });
+    const { feed } = parseXml(parseRss(xml), testBaseUrl);
+    expect(feed.imageUrl).toBe("https://example.com/cover.jpg");
+  });
+
+  test("upgrades channel itunes:image HTTP URL to HTTPS", () => {
+    const xml = minimalRssXml({
+      channelExtra: `<itunes:image href="http://example.com/cover.jpg"/>`,
+      items: twoItems,
+    });
+    const { feed } = parseXml(parseRss(xml), testBaseUrl);
+    expect(feed.imageUrl).toBe("https://example.com/cover.jpg");
+  });
+
+  test("falls back to RSS image element when no itunes:image", () => {
+    const xml = minimalRssXml({
+      channelExtra: `<image><url>https://example.com/rss-img.jpg</url></image>`,
+      items: twoItems,
+    });
+    const { feed } = parseXml(parseRss(xml), testBaseUrl);
+    expect(feed.imageUrl).toBe("https://example.com/rss-img.jpg");
+  });
+
+  test("captures episode itunes:image as episode imageUrl", () => {
+    const itemWithImage =
+      minimalItem({ guid: "ep-img" }) +
+      `<item>
+  <guid>ep-img-2</guid>
+  <title>Episode with Art</title>
+  <pubDate>Mon, 01 Jan 2024 10:00:00 GMT</pubDate>
+  <itunes:duration>1:00:00</itunes:duration>
+  <enclosure url="https://example.com/ep2.mp3" type="audio/mpeg"/>
+  <itunes:image href="https://example.com/ep-art.jpg"/>
+</item>`;
+    const xml = minimalRssXml({ items: itemWithImage });
+    const { episodes } = parseXml(parseRss(xml), testBaseUrl);
+    const ep = episodes.find(
+      (e) => e.mediaLink === "https://example.com/ep2.mp3",
+    );
+    expect(ep?.imageUrl).toBe("https://example.com/ep-art.jpg");
+  });
+
+  test("imageUrl is undefined when no image elements present", () => {
+    const xml = minimalRssXml({ items: twoItems });
+    const { feed, episodes } = parseXml(parseRss(xml), testBaseUrl);
+    expect(feed.imageUrl).toBeUndefined();
+    expect(episodes[0]!.imageUrl).toBeUndefined();
   });
 });

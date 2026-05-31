@@ -3,7 +3,11 @@
  */
 
 import { join } from "node:path";
-import type { EpisodeMetadata, FeedMetadata, RadioStation } from "./feed-data";
+import type {
+  EpisodeMetadata,
+  FeedMetadata,
+  RadioStation,
+} from "@/common/feed-data";
 import { fetchAndParse } from "./feed-parsing/load-rss";
 import stations from "./feed-parsing/stations";
 
@@ -19,9 +23,13 @@ for (const station of stations) {
   const episodes: EpisodeMetadata[] = [];
 
   for (const feed of station.feeds) {
-    const parsed = await fetchAndParse(new URL(feed.rssUrl));
-    feeds.push(parsed.feed);
-    parsed.episodes.forEach((episode) => episodes.push(episode));
+    try {
+      const parsed = await fetchAndParse(new URL(feed.rssUrl));
+      feeds.push(parsed.feed);
+      parsed.episodes.forEach((episode) => episodes.push(episode));
+    } catch (err) {
+      console.error(new Date(), `Failed to fetch/parse ${feed.rssUrl}:`, err);
+    }
   }
 
   const results: RadioStation = {
@@ -35,7 +43,7 @@ for (const station of stations) {
   const neatName = fileName(results.title);
 
   await writeFile(
-    join(stationFileDir, neatName + "-content.ts"),
+    join(stationFileDir, neatName + "-content.json"),
     contentFile(results),
     "utf-8",
   );

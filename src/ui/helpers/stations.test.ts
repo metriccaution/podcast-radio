@@ -1,6 +1,6 @@
 import { describe, expect, test } from "bun:test";
 import { cycleLength, produceCycle, interleaveStation } from "./stations";
-import type { RadioStation } from "@/fetch-data/feed-data";
+import type { RadioStation } from "@/common/feed-data";
 
 describe("cycleLength", () => {
   const cases: Array<{ lengths: number[]; expected: number }> = [

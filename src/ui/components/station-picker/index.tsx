@@ -1,4 +1,4 @@
-import type { RadioStation } from "@/fetch-data/feed-data";
+import type { RadioStation } from "@/common/feed-data";
 import type { FC } from "react";
 import "./station-picker.css";
 

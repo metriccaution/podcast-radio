@@ -1,5 +1,6 @@
 import { useEffect, useReducer } from "react";
-import type { EpisodeMetadata } from "@/fetch-data/feed-data";
+import { radioStation } from "@/common/feed-data";
+import type { EpisodeMetadata } from "@/common/feed-data";
 import { interleaveStation } from "./helpers/stations";
 import { getCurrent } from "./helpers/timing";
 import { playerReducer } from "./reducer";
@@ -8,15 +9,21 @@ import StationPicker from "@/ui/components/station-picker";
 import CurrentEpisode from "@/ui/components/current-episode";
 import UpNext from "@/ui/components/up-next";
 import Player from "@/ui/components/player";
+import Artwork from "@/ui/components/artwork";
 import "./index.css";
 import "./app.css";
 
-import documentary from "./stations/documentary-content";
-import gameShows from "./stations/game-shows-content";
-import history from "./stations/history-content";
-import rpgLetsPlays from "./stations/rpg-letsplays-content";
+import rawDocumentary from "./stations/documentary-content.json";
+import rawGameShows from "./stations/game-shows-content.json";
+import rawHistory from "./stations/history-content.json";
+import rawRpgLetsPlays from "./stations/rpg-letsplays-content.json";
 
-const stations = [documentary, gameShows, history, rpgLetsPlays];
+const stations = [
+  rawDocumentary,
+  rawGameShows,
+  rawHistory,
+  rawRpgLetsPlays,
+].map((raw) => radioStation.parse(raw));
 
 /**
  * Returns where the given episode list "is" right now on the radio clock.
@@ -87,6 +94,12 @@ export function App() {
     }
   };
 
+  const currentEpisode = state.episodes[state.currentTrack];
+  const currentFeed = state.currentStation.feeds.find(
+    (f) => f.title === currentEpisode?.feed,
+  );
+  const artworkUrl = currentEpisode?.imageUrl ?? currentFeed?.imageUrl;
+
   return (
     <div className="app">
       <StationPicker
@@ -107,36 +120,43 @@ export function App() {
         }}
       />
 
-      <main className="player-area">
-        <CurrentEpisode
-          episode={state.episodes[state.currentTrack]!}
-          startTime={state.episodeStartTime}
-          currentTime={state.currentTime}
-          actualDuration={state.actualDuration}
-        />
-        <UpNext episode={state.episodes[state.currentTrack + 1]} />
+      <div className="content-layout">
+        <Artwork imageUrl={artworkUrl} alt={currentEpisode?.feed ?? ""} />
 
-        <button
-          className={`play-pause ${state.playing ? "playing" : ""}`}
-          onClick={handlePlayToggle}
-          aria-label={state.playing ? "Pause" : "Play"}
-        >
-          {state.playing ? "⏸" : "▶"}
-        </button>
+        <main className="player-area">
+          <CurrentEpisode
+            episode={state.episodes[state.currentTrack]!}
+            startTime={state.episodeStartTime}
+            currentTime={state.currentTime}
+            actualDuration={state.actualDuration}
+          />
+          <UpNext episode={state.episodes[state.currentTrack + 1]} />
 
-        <Player
-          episodes={state.episodes}
-          startAt={{ track: state.currentTrack, seconds: state.startAtSeconds }}
-          playing={state.playing}
-          onTimeUpdate={({ currentTime }) =>
-            dispatch({ type: "SET_CURRENT_TIME", time: currentTime })
-          }
-          onComplete={() => dispatch({ type: "ADVANCE_TRACK" })}
-          onActualDuration={(duration) =>
-            dispatch({ type: "SET_ACTUAL_DURATION", duration })
-          }
-        />
-      </main>
+          <button
+            className={`play-pause ${state.playing ? "playing" : ""}`}
+            onClick={handlePlayToggle}
+            aria-label={state.playing ? "Pause" : "Play"}
+          >
+            {state.playing ? "⏸" : "▶"}
+          </button>
+
+          <Player
+            episodes={state.episodes}
+            startAt={{
+              track: state.currentTrack,
+              seconds: state.startAtSeconds,
+            }}
+            playing={state.playing}
+            onTimeUpdate={({ currentTime }) =>
+              dispatch({ type: "SET_CURRENT_TIME", time: currentTime })
+            }
+            onComplete={() => dispatch({ type: "ADVANCE_TRACK" })}
+            onActualDuration={(duration) =>
+              dispatch({ type: "SET_ACTUAL_DURATION", duration })
+            }
+          />
+        </main>
+      </div>
     </div>
   );
 }

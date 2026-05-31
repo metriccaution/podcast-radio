@@ -1,6 +1,6 @@
 import { describe, expect, test } from "bun:test";
 import { fileName, contentFile } from "./create-sources";
-import type { RadioStation } from "../feed-data";
+import type { RadioStation } from "@/common/feed-data";
 
 describe("fileName", () => {
   const cases: Array<[string, string]> = [
@@ -38,32 +38,11 @@ describe("contentFile", () => {
     ],
   };
 
-  test("starts with the generated file comment", () => {
-    expect(contentFile(station)).toMatch(/^\/\/ Automatically generated file/);
-  });
-
-  test("imports RadioStation type from feed-data", () => {
-    expect(contentFile(station)).toContain(
-      'import type { RadioStation } from "@/fetch-data/feed-data"',
-    );
-  });
-
-  test("exports the data as default", () => {
-    expect(contentFile(station)).toContain("export default data");
-  });
-
-  test("includes the station title in the JSON", () => {
+  test("includes the station title", () => {
     expect(contentFile(station)).toContain('"Test Station"');
   });
 
-  test("produces valid TypeScript that round-trips the data", () => {
-    const output = contentFile(station);
-    // Extract the JSON object literal from the assignment
-    const match = output.match(
-      /const data : RadioStation = (\{[\s\S]+\})\nexport/,
-    );
-    expect(match).not.toBeNull();
-    const parsed = JSON.parse(match![1]!);
-    expect(parsed).toEqual(station);
+  test("produces valid JSON that round-trips the data", () => {
+    expect(JSON.parse(contentFile(station))).toEqual(station);
   });
 });

@@ -1,7 +1,13 @@
 import { describe, expect, test } from "bun:test";
 import { playerReducer } from "./reducer";
 import type { PlayerState } from "./reducer";
-import type { EpisodeMetadata } from "@/fetch-data/feed-data";
+import type { EpisodeMetadata, RadioStation } from "@/common/feed-data";
+
+const testStation: RadioStation = {
+  title: "Test Station",
+  feeds: [{ title: "Test Feed", description: "A test feed" }],
+  episodes: [],
+};
 
 function makeEpisode(
   overrides: Partial<EpisodeMetadata> = {},
@@ -9,15 +15,17 @@ function makeEpisode(
   return {
     feed: "Test Feed",
     title: "Test Episode",
+    episodeNumber: 1,
+    publishedTime: 1704067200000,
     mediaLink: "https://example.com/episode.mp3",
     durationSeconds: 3600,
-    pubDate: new Date("2024-01-01"),
     ...overrides,
   };
 }
 
 function makeState(overrides: Partial<PlayerState> = {}): PlayerState {
   return {
+    currentStation: testStation,
     episodes: [makeEpisode(), makeEpisode({ title: "Episode 2" })],
     currentTrack: 0,
     startAtSeconds: 0,
@@ -37,6 +45,7 @@ describe("TUNE_IN", () => {
 
     const next = playerReducer(state, {
       type: "TUNE_IN",
+      station: testStation,
       episodes: newEpisodes,
       track: 0,
       offset: 300,
