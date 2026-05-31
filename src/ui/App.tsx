@@ -69,11 +69,6 @@ function initialState(): PlayerState {
   };
 }
 
-const buildTime: string | undefined =
-  typeof process !== "undefined"
-    ? process.env.BUN_PUBLIC_BUILD_TIME
-    : undefined;
-
 export function App() {
   const [state, dispatch] = useReducer(playerReducer, null, initialState);
 
@@ -171,7 +166,9 @@ export function App() {
       <footer className="site-footer">
         Feeds curated by the author of this tool; not affiliated with any
         podcast creator.
-        {buildTime && <> &middot; Built {buildTime}</>}
+        {process.env.BUN_PUBLIC_BUILD_TIME && (
+          <> &middot; Built {process.env.BUN_PUBLIC_BUILD_TIME}</>
+        )}
       </footer>
     </div>
   );
