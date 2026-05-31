@@ -1,0 +1,34 @@
+.app {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+.player-area {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+.play-pause {
+  align-self: flex-start;
+  background: rgba(194, 82, 48, 0.15);
+  border: 1px solid var(--brick);
+  color: inherit;
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition:
+    background 0.2s,
+    border-color 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.play-pause:hover {
+  background: rgba(194, 82, 48, 0.28);
+}
+.play-pause.playing {
+  background: rgba(194, 82, 48, 0.22);
+  border-color: var(--brick);
+}

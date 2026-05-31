@@ -1,0 +1,25 @@
+.station-picker {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin-bottom: 2rem;
+}
+.station-picker button {
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  color: inherit;
+  padding: 0.4rem 1rem;
+  border-radius: 2rem;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition:
+    border-color 0.2s,
+    background 0.2s;
+}
+.station-picker button:hover {
+  border-color: var(--green);
+}
+.station-picker button.active {
+  background: rgba(194, 82, 48, 0.18);
+  border-color: var(--brick);
+}
