@@ -10,6 +10,7 @@ import CurrentEpisode from "@/ui/components/current-episode";
 import UpNext from "@/ui/components/up-next";
 import Player from "@/ui/components/player";
 import Artwork from "@/ui/components/artwork";
+import { PlayIcon, PauseIcon } from "@/ui/components/icons";
 import "./index.css";
 import "./app.css";
 
@@ -141,7 +142,7 @@ export function App() {
             onClick={handlePlayToggle}
             aria-label={state.playing ? "Pause" : "Play"}
           >
-            {state.playing ? "⏸" : "▶"}
+            {state.playing ? <PauseIcon /> : <PlayIcon />}
           </button>
 
           <Player
