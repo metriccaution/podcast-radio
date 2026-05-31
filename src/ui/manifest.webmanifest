@@ -2,7 +2,7 @@
   "name": "Podcast Radio",
   "short_name": "Podcast Radio",
   "description": "All the fun of podcasts, without any of the convenience.",
-  "start_url": "/",
+  "start_url": "/podcast-radio/",
   "display": "standalone",
   "background_color": "#1a1a1a",
   "theme_color": "#c25230",
