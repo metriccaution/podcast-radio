@@ -161,6 +161,11 @@ export function App() {
           />
         </main>
       </div>
+
+      <footer className="site-footer">
+        Feeds curated by the author of this tool; not affiliated with any
+        podcast creator.
+      </footer>
     </div>
   );
 }

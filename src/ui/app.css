@@ -2,7 +2,12 @@
   max-width: 720px;
   margin: 0 auto;
   padding: 2rem;
+  min-height: 100vh;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
 }
+
 .content-layout {
   display: flex;
   flex-direction: row;
@@ -42,6 +47,14 @@
 .play-pause:hover {
   background: rgba(194, 82, 48, 0.28);
 }
+.site-footer {
+  margin-top: auto;
+  padding-top: 2.5rem;
+  font-size: 0.75rem;
+  color: rgba(255, 255, 255, 0.35);
+  text-align: center;
+}
+
 .play-pause.playing {
   background: rgba(194, 82, 48, 0.22);
   border-color: var(--brick);
