@@ -3,6 +3,8 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [main]
+  schedule:
+    - cron: "0 6 * * *"
 
 # Required for Pages deployment via OIDC token
 permissions:
