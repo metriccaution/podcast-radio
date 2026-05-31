@@ -46,6 +46,11 @@ const Player: FC<AudioPlayerProps> = ({
     if (playing) {
       ref.current?.play().catch((err) => {
         if (err instanceof DOMException && err.name === "AbortError") return;
+        if (err instanceof DOMException && err.name === "NotSupportedError") {
+          console.error("Unplayable media, skipping:", source);
+          onComplete();
+          return;
+        }
         throw err;
       });
     } else {
