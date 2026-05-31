@@ -14,9 +14,8 @@ export type PlayerState = {
 export type Action =
   /**
    *  Station switched. Rebuilds the full state from a new interleaved episode
-   *  list and the radio-clock position at the moment of switching. Always
-   *  pauses playback so audio from the previous station doesn't bleed through
-   *  while the episode list is being rebuilt.
+   *  list and the radio-clock position at the moment of switching. Preserves
+   *  the current playing state so switching stations doesn't interrupt playback.
    */
   | {
       type: "TUNE_IN";
@@ -94,7 +93,7 @@ export function playerReducer(state: PlayerState, action: Action): PlayerState {
         startAtSeconds: action.offset,
         currentTime: action.offset,
         episodeStartTime: action.startTime,
-        playing: false,
+        playing: state.playing,
         actualDuration: null,
       };
 

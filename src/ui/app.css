@@ -29,23 +29,26 @@
 }
 .play-pause {
   align-self: flex-start;
-  background: rgba(194, 82, 48, 0.15);
-  border: 1px solid var(--brick);
-  color: inherit;
-  width: 3rem;
-  height: 3rem;
+  background: var(--brick);
+  border: 2px solid var(--brick);
+  color: #fff;
+  width: 4rem;
+  height: 4rem;
   border-radius: 50%;
-  font-size: 1.1rem;
+  font-size: 1.4rem;
   cursor: pointer;
   transition:
     background 0.2s,
-    border-color 0.2s;
+    border-color 0.2s,
+    transform 0.1s;
   display: flex;
   align-items: center;
   justify-content: center;
+  box-shadow: 0 2px 12px rgba(194, 82, 48, 0.4);
 }
 .play-pause:hover {
-  background: rgba(194, 82, 48, 0.28);
+  background: #d4613a;
+  transform: scale(1.06);
 }
 .site-footer {
   margin-top: auto;
@@ -56,6 +59,6 @@
 }
 
 .play-pause.playing {
-  background: rgba(194, 82, 48, 0.22);
+  background: rgba(194, 82, 48, 0.5);
   border-color: var(--brick);
 }

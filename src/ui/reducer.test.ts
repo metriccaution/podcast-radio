@@ -38,7 +38,7 @@ function makeState(overrides: Partial<PlayerState> = {}): PlayerState {
 }
 
 describe("TUNE_IN", () => {
-  test("stores new episodes and position, pauses, clears actualDuration", () => {
+  test("stores new episodes and position, preserves playing state, clears actualDuration", () => {
     const newEpisodes = [makeEpisode({ title: "New Station Ep" })];
     const startTime = new Date("2024-06-01T12:00:00Z");
     const state = makeState({ playing: true, actualDuration: 1800 });
@@ -57,7 +57,7 @@ describe("TUNE_IN", () => {
     expect(next.startAtSeconds).toBe(300);
     expect(next.currentTime).toBe(300);
     expect(next.episodeStartTime).toBe(startTime);
-    expect(next.playing).toBe(false);
+    expect(next.playing).toBe(true);
     expect(next.actualDuration).toBeNull();
   });
 });
