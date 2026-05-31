@@ -1,5 +1,6 @@
 import { describe, expect, test } from "bun:test";
-import { parseDuration, parseRss, parseXml } from "./load-rss";
+import { fetchAndParse, parseDuration, parseRss, parseXml } from "./load-rss";
+import feeds from "./stations";
 
 describe("parseDuration", () => {
   const cases: Array<[string | number | undefined, number]> = [
@@ -261,4 +262,28 @@ describe("parseXml", () => {
     expect(feed.imageUrl).toBeUndefined();
     expect(episodes[0]!.imageUrl).toBeUndefined();
   });
+});
+
+/**
+ * Typically leave this skipped, as it involves actually fetching remote data.
+ */
+describe.skip("Parsing real feeds", () => {
+  const testFeeds = feeds
+    .flatMap((f) => f.feeds)
+    .filter((f) =>
+      [
+        "Darknet Diaries",
+        "BBC Intrigue",
+        "BBC Limelight",
+        "Totalis Rankium - Pirates",
+        "Journey Through Time",
+      ].includes(f.title),
+    );
+
+  for (const { rssUrl, title } of testFeeds) {
+    test(`Fetch and test ${title} from ${rssUrl}`, async () => {
+      const feed = await fetchAndParse(new URL(rssUrl));
+      expect(feed.episodes.length).toBeGreaterThan(0);
+    });
+  }
 });

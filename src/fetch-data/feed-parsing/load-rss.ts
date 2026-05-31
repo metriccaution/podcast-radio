@@ -131,7 +131,9 @@ export function parseXml(parsed: RssContent, baseUrl: URL): ParseResults {
         return (
           !Number.isNaN(episode.publishedTime) && !inTheFuture && !beforeRss
         );
-      }),
+      })
+      // RSS feeds list newest-first; sort oldest-first for chronological listening
+      .sort((a, b) => a.publishedTime - b.publishedTime),
   };
 }
 

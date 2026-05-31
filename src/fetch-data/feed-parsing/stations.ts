@@ -26,6 +26,15 @@ const documentary: FeedSource = {
       title: "In Our Time",
       rssUrl: "https://podcasts.files.bbci.co.uk/b006qykl.rss",
     },
+    {
+      title: "BBC Intrigue",
+      rssUrl: "https://podcasts.files.bbci.co.uk/m0000nfh.rss",
+    },
+    {
+      title: "Hot Money",
+      rssUrl:
+        "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/0f0d9558-3e6e-4af7-971b-ae860127535c/podcast.rss",
+    },
   ],
 };
 
@@ -36,13 +45,23 @@ const gameShows: FeedSource = {
       title: "Lateral with Tom Scott",
       rssUrl: "https://audioboom.com/channels/5097784.rss",
     },
+  ],
+};
+
+const drama: FeedSource = {
+  title: "Drama",
+  feeds: [
     {
-      title: "Escape This Podcast",
-      rssUrl: "https://www.escapethispodcast.com/feed.xml",
+      title: "BBC Limelight",
+      rssUrl: "https://podcasts.files.bbci.co.uk/p09hbsqb.rss",
     },
     {
-      title: "Solve This Murder",
-      rssUrl: "https://www.solvethismurder.com/feed.xml",
+      title: "Derelict",
+      rssUrl: "https://feeds.megaphone.fm/SBP4341397353",
+    },
+    {
+      title: "The Lovecraft Investigations",
+      rssUrl: "https://podcasts.files.bbci.co.uk/p06spb8w.rss",
     },
   ],
 };
@@ -74,6 +93,10 @@ const history: FeedSource = {
       title: "Sagathing",
       rssUrl: "https://feed.podbean.com/sagathing/feed.xml",
     },
+    {
+      title: "Journey Through Time",
+      rssUrl: "https://feeds.megaphone.fm/journeythroughtime",
+    },
   ],
 };
 
@@ -99,5 +122,26 @@ const rpgLetsPlays: FeedSource = {
   ],
 };
 
-const feeds: FeedSource[] = [documentary, gameShows, history, rpgLetsPlays];
+const rpgTalk: FeedSource = {
+  title: "RPG Talk",
+  feeds: [
+    {
+      title: "When We Were Wizards",
+      rssUrl: "https://feed.podbean.com/tractionmediaproductions/feed.xml",
+    },
+    {
+      rssUrl: "https://www.kenandrobintalkaboutstuff.com/index.php/feed/",
+      title: "Ken and Robin Talk About Stuff",
+    },
+  ],
+};
+
+const feeds: FeedSource[] = [
+  documentary,
+  gameShows,
+  history,
+  rpgLetsPlays,
+  drama,
+  rpgTalk,
+];
 export default feeds;

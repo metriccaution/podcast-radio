@@ -17,12 +17,16 @@ import rawDocumentary from "./stations/documentary-content.json";
 import rawGameShows from "./stations/game-shows-content.json";
 import rawHistory from "./stations/history-content.json";
 import rawRpgLetsPlays from "./stations/rpg-letsplays-content.json";
+import rawDrama from "./stations/drama-content.json";
+import rpgTalk from "./stations/rpg-talk-content.json";
 
 const stations = [
   rawDocumentary,
+  rawDrama,
   rawGameShows,
   rawHistory,
   rawRpgLetsPlays,
+  rpgTalk,
 ].map((raw) => radioStation.parse(raw));
 
 /**

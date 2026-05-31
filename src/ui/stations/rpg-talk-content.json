@@ -1,0 +1,2617 @@
+{
+  "title": "RPG Talk",
+  "feeds": [
+    {
+      "title": "When We Were Wizards",
+      "link": "https://tractionmediaproductions.podbean.com",
+      "description": "WHEN WE WERE WIZARDS (W4) is a 14-episode podcast series that charts the rise and fall of Gary Gygax, co-creator of the role-playing game Dungeons & Dragons. Taking a journalistic approach to blow open the known ”gospel” of D&D history, W4 draws from nearly 30 interview subjects – including Gary’s ex- wife, two children, employees, friends, and partners. From Gary’s basement in the early 60s to the 1985 boardroom coup that ripped the game from his control, W4 is a sweeping story about the cost of the American Dream when idealistic ambition is corrupted by greed, lust, and human folly.",
+      "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/19334841/24_WhenWeWereWizards_ApplePodcasts_v6x9ny.jpg"
+    },
+    {
+      "title": "Ken and Robin Talk About Stuff",
+      "link": "https://www.kenandrobintalkaboutstuff.com",
+      "description": "Podcast by Kenneth Hite and Robin D. Laws",
+      "imageUrl": "https://kenandrobin.wpengine.com/media/kartas_podcast.png"
+    }
+  ],
+  "episodes": [
+    {
+      "feed": "When We Were Wizards",
+      "title": "Introduction - When We Were Wizards",
+      "episodeNumber": 15,
+      "publishedTime": 1656357420000,
+      "durationSeconds": 85,
+      "infoLink": "https://tractionmediaproductions.podbean.com/e/introduction-when-we-were-wizards/",
+      "mediaLink": "https://mcdn.podbean.com/mf/web/ne20254r22gtfugr/s_10dea5d4_podcast_play_54081379_https_3A_2F_2Fd3ctxlq1ktw2nl_cloudfront_net_2Fstaging_2F2024-5-4_2F379754985-44100-2-5797b822b6824_vj594a.mp3",
+      "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog19334841/21426e591a1112633d46a9618df4e17a.jpg"
+    },
+    {
+      "feed": "When We Were Wizards",
+      "title": "Eye of the Beholder",
+      "episodeNumber": 14,
+      "publishedTime": 1656870540000,
+      "durationSeconds": 2633,
+      "infoLink": "https://tractionmediaproductions.podbean.com/e/eye-of-the-beholder-1724867721/",
+      "mediaLink": "https://mcdn.podbean.com/mf/web/c3t9pq6w8l9vwgom/s_10dea5d4_podcast_play_53964290_https_3A_2F_2Fd3ctxlq1ktw2nl_cloudfront_net_2Fstaging_2F2022-5-27_2F96487551-ccfc-47b3-d01d-74d4095c2787.mp3",
+      "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog19334841/c27cbe892c3be500814de079c583bd66.jpg"
+    },
+    {
+      "feed": "When We Were Wizards",
+      "title": "Detect Magic",
+      "episodeNumber": 13,
+      "publishedTime": 1657303140000,
+      "durationSeconds": 2458,
+      "infoLink": "https://tractionmediaproductions.podbean.com/e/detect-magic/",
+      "mediaLink": "https://mcdn.podbean.com/mf/web/zgc1g14qk0880sw3/s_10dea5d4_podcast_play_54474705_https_3A_2F_2Fd3ctxlq1ktw2nl_cloudfront_net_2Fstaging_2F2022-6-8_2F275578710-44100-2-d4796ad68c44d_7rq6fg.mp3",
+      "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog19334841/ab8414e06aa2240edbb3ea4b1e96a8ce.jpg"
+    },
+    {
+      "feed": "When We Were Wizards",
+      "title": "System Shock",
+      "episodeNumber": 12,
+      "publishedTime": 1659234600000,
+      "durationSeconds": 2581,
+      "infoLink": "https://tractionmediaproductions.podbean.com/e/system-shock/",
+      "mediaLink": "https://mcdn.podbean.com/mf/web/kpaejqcm5fzxd1fx/s_10dea5d4_podcast_play_55535202_https_3A_2F_2Fd3ctxlq1ktw2nl_cloudfront_net_2Fstaging_2F2022-6-31_2F278782790-44100-2-a4a5c0dbd1f74_ktbbm5.mp3",
+      "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog19334841/bd80d45030839f25e048be2f42a99a00.jpg"
+    },
+    {
+      "feed": "When We Were Wizards",
+      "title": "Creeping Doom",
+      "episodeNumber": 11,
+      "publishedTime": 1716696000000,
+      "durationSeconds": 2680,
+      "infoLink": "https://tractionmediaproductions.podbean.com/e/creeping-doom/",
+      "mediaLink": "https://mcdn.podbean.com/mf/web/9w8jbrhl23f1y34c/s_10dea5d4_podcast_play_86994017_https_3A_2F_2Fd3ctxlq1ktw2nl_cloudfront_net_2Fstaging_2F2024-4-20_2F378225765-44100-2-39600c24601a4_5v84n6.mp3",
+      "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog19334841/33225469cb6107950eadba43e39c3e48.jpg"
+    },
+    {
+      "feed": "When We Were Wizards",
+      "title": "Reaction Adjustment",
+      "episodeNumber": 10,
+      "publishedTime": 1717300800000,
+      "durationSeconds": 2987,
+      "infoLink": "https://tractionmediaproductions.podbean.com/e/reaction-adjustment/",
+      "mediaLink": "https://mcdn.podbean.com/mf/web/xhsk5wgpwxlobo90/s_10dea5d4_podcast_play_87497107_https_3A_2F_2Fd3ctxlq1ktw2nl_cloudfront_net_2Fstaging_2F2024-5-1_2F379459096-44100-2-45a7d84c04d5e_eq69vg.mp3",
+      "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog19334841/89db10da330322425b01eabe5bdf3f92.jpg"
+    },
+    {
+      "feed": "When We Were Wizards",
+      "title": "Satanic Panic",
+      "episodeNumber": 9,
+      "publishedTime": 1717940160000,
+      "durationSeconds": 2495,
+      "infoLink": "https://tractionmediaproductions.podbean.com/e/satanic-panic-1724867715/",
+      "mediaLink": "https://mcdn.podbean.com/mf/web/frs714z4dsxdfpbx/s_10dea5d4_podcast_play_87757752_https_3A_2F_2Fd3ctxlq1ktw2nl_cloudfront_net_2Fstaging_2F2024-5-7_2F380053054-44100-2-76760e02f2752_49qnse.mp3",
+      "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog19334841/b7cbe86682bcb7d189bc3feace291244.jpg"
+    },
+    {
+      "feed": "When We Were Wizards",
+      "title": "The Snake Pit",
+      "episodeNumber": 8,
+      "publishedTime": 1718510400000,
+      "durationSeconds": 2876,
+      "infoLink": "https://tractionmediaproductions.podbean.com/e/the-snake-pit-1724867714/",
+      "mediaLink": "https://mcdn.podbean.com/mf/web/1pnmk2lvtckf0gy8/s_10dea5d4_podcast_play_88058995_https_3A_2F_2Fd3ctxlq1ktw2nl_cloudfront_net_2Fstaging_2F2024-5-15_2F380750036-44100-2-8d1e98a8c0ea_eg3qca.mp3",
+      "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog19334841/2329ddaccf8fd4cfd2ef7a8b92ec0d88.jpg"
+    },
+    {
+      "feed": "When We Were Wizards",
+      "title": "Tomb of Horrors",
+      "episodeNumber": 7,
+      "publishedTime": 1719115200000,
+      "durationSeconds": 2849,
+      "infoLink": "https://tractionmediaproductions.podbean.com/e/tomb-of-horrors/",
+      "mediaLink": "https://mcdn.podbean.com/mf/web/79x45anlv8eqe7n3/s_10dea5d4_podcast_play_88343143_https_3A_2F_2Fd3ctxlq1ktw2nl_cloudfront_net_2Fstaging_2F2024-6-2_2F382194859-44100-2-d5116a5dabf58_bwq34y.mp3",
+      "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog19334841/3df8d344b82093dab2ee96467b475933.jpg"
+    },
+    {
+      "feed": "When We Were Wizards",
+      "title": "Rope of Entanglement",
+      "episodeNumber": 6,
+      "publishedTime": 1719720000000,
+      "durationSeconds": 2598,
+      "infoLink": "https://tractionmediaproductions.podbean.com/e/rope-of-entanglement/",
+      "mediaLink": "https://mcdn.podbean.com/mf/web/4o1z33vjvuzq1x8b/s_10dea5d4_podcast_play_88621920_https_3A_2F_2Fd3ctxlq1ktw2nl_cloudfront_net_2Fstaging_2F2024-5-29_2F381987586-44100-2-46e3940eaeb1a_6knqbq.mp3",
+      "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog19334841/e0b9df81969323564f1b3da8c4d359f1.jpg"
+    },
+    {
+      "feed": "When We Were Wizards",
+      "title": "Critical Hit",
+      "episodeNumber": 5,
+      "publishedTime": 1720324800000,
+      "durationSeconds": 1957,
+      "infoLink": "https://tractionmediaproductions.podbean.com/e/critical-hit/",
+      "mediaLink": "https://mcdn.podbean.com/mf/web/oi5pvu6ricr3tfty/s_10dea5d4_podcast_play_88906001_https_3A_2F_2Fd3ctxlq1ktw2nl_cloudfront_net_2Fstaging_2F2024-6-10_2F382914049-44100-2-58d3628aea533_akury2.mp3",
+      "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog19334841/f30fab5ccb7477d0170aa56d2e8ecd8b.jpg"
+    },
+    {
+      "feed": "When We Were Wizards",
+      "title": "Ring of Delusion",
+      "episodeNumber": 4,
+      "publishedTime": 1720976400000,
+      "durationSeconds": 2976,
+      "infoLink": "https://tractionmediaproductions.podbean.com/e/ring-of-delusion/",
+      "mediaLink": "https://mcdn.podbean.com/mf/web/jgd4db6k8dxc3dol/s_10dea5d4_podcast_play_89207150_https_3A_2F_2Fd3ctxlq1ktw2nl_cloudfront_net_2Fstaging_2F2024-6-14_2F383160248-44100-2-8b641e63e78d3_9cxmyz.mp3",
+      "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog19334841/12951a602b01c16e1d08f763cb4329d8.jpg"
+    },
+    {
+      "feed": "When We Were Wizards",
+      "title": "Save or Die",
+      "episodeNumber": 3,
+      "publishedTime": 1721534400000,
+      "durationSeconds": 2940,
+      "infoLink": "https://tractionmediaproductions.podbean.com/e/save-or-die/",
+      "mediaLink": "https://mcdn.podbean.com/mf/web/vy1y1uznv692tkj6/s_10dea5d4_podcast_play_89463330_https_3A_2F_2Fd3ctxlq1ktw2nl_cloudfront_net_2Fstaging_2F2024-6-20_2F383550645-44100-2-a1a3ef435bb5e_q2m63f.mp3",
+      "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog19334841/4ee052c599ea4022306d5766336717c8.jpg"
+    },
+    {
+      "feed": "When We Were Wizards",
+      "title": "Dispel Magic",
+      "episodeNumber": 2,
+      "publishedTime": 1722139200000,
+      "durationSeconds": 2959,
+      "infoLink": "https://tractionmediaproductions.podbean.com/e/dispel-magic/",
+      "mediaLink": "https://mcdn.podbean.com/mf/web/7b955csay84hdqmt/s_10dea5d4_podcast_play_89733822_https_3A_2F_2Fd3ctxlq1ktw2nl_cloudfront_net_2Fstaging_2F2024-6-27_2F383909160-44100-2-535edbe1fb0fe_25brzb.mp3",
+      "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog19334841/f5f74df0d56c13f317a607ddd99ae528.jpg"
+    },
+    {
+      "feed": "When We Were Wizards",
+      "title": "Legends & Lore",
+      "episodeNumber": 1,
+      "publishedTime": 1722744000000,
+      "durationSeconds": 2543,
+      "infoLink": "https://tractionmediaproductions.podbean.com/e/legends-lore/",
+      "mediaLink": "https://mcdn.podbean.com/mf/web/0zrpp2juy99yzwu7/s_10dea5d4_podcast_play_90010501_https_3A_2F_2Fd3ctxlq1ktw2nl_cloudfront_net_2Fstaging_2F2024-7-3_2F384249215-44100-2-1f03a8b105378_izjq4z.mp3",
+      "imageUrl": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog19334841/6c8bb502107dc166452869d3496fd38a.jpg"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 7: Lindbergh&#8217;s Mummy",
+      "episodeNumber": 8,
+      "publishedTime": 1348154963000,
+      "durationSeconds": 4231,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-7-lindberghs-mummy/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken%20And%20Robin%20Talk%20About%20Stuff%20Episode%20007.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 104: Stabby Detective Stories",
+      "episodeNumber": 110,
+      "publishedTime": 1409301047000,
+      "durationSeconds": 4965,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-104-stabby-detective-stories/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken%20And%20Robin%20Talk%20About%20Stuff%20Episode%20104.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 276: Retinue of Clowns and Goofs",
+      "episodeNumber": 292,
+      "publishedTime": 1516350628000,
+      "durationSeconds": 4453,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-276-retinue-of-clowns-and-goofs/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken%20And%20Robin%20Talk%20About%20Stuff%20Episode%20276.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 319: Eventually You Run Out of Zigs",
+      "episodeNumber": 336,
+      "publishedTime": 1542357051000,
+      "durationSeconds": 3991,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-319-eventually-you-run-out-of-zigs/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken%20And%20Robin%20Talk%20About%20Stuff%20Episode%20319.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 342: Traduced By Raisins",
+      "episodeNumber": 361,
+      "publishedTime": 1556872255000,
+      "durationSeconds": 4005,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-342-traduced-by-raisins/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-342.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 436: Needs to Have a Lith",
+      "episodeNumber": 459,
+      "publishedTime": 1615537851000,
+      "durationSeconds": 4411,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-436/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-436.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 437: Your Chartreuse Leotard",
+      "episodeNumber": 460,
+      "publishedTime": 1616142653000,
+      "durationSeconds": 4598,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-437-your-chartreuse-leotard/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-437.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 438: Anyone Can Bilocate",
+      "episodeNumber": 461,
+      "publishedTime": 1616747421000,
+      "durationSeconds": 4700,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-438-anyone-can-bilocate/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-438.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 439: Untainted By Dockyard Activities",
+      "episodeNumber": 462,
+      "publishedTime": 1617352213000,
+      "durationSeconds": 3980,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-439-untainted-by-dockyard-activities/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-439.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 440: All the Van Helsings",
+      "episodeNumber": 463,
+      "publishedTime": 1617957037000,
+      "durationSeconds": 4388,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-440-all-the-van-helsings/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-440.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 441: Cheese Made of Cheese",
+      "episodeNumber": 464,
+      "publishedTime": 1618561858000,
+      "durationSeconds": 4082,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-441-cheese-made-of-cheese/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-441.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 442: Mad at Unicorns",
+      "episodeNumber": 465,
+      "publishedTime": 1619166614000,
+      "durationSeconds": 4672,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-442-mad-at-unicorns/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-442.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 443: Ruined by Farm Children",
+      "episodeNumber": 466,
+      "publishedTime": 1619771443000,
+      "durationSeconds": 5082,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-443-ruined-by-farm-children/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-443.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 444: Axe Democracy",
+      "episodeNumber": 467,
+      "publishedTime": 1620376213000,
+      "durationSeconds": 3326,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-444-axe-democracy/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-444.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 445: The Cavern of Boring",
+      "episodeNumber": 468,
+      "publishedTime": 1620981013000,
+      "durationSeconds": 4089,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-445-the-cavern-of-boring/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-445.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 446: Well Also H. R. Giger",
+      "episodeNumber": 469,
+      "publishedTime": 1621586039000,
+      "durationSeconds": 3336,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-446-well-also-h-r-giger/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-446.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 447: The Bert-Adjacent Ugly Wheels of Commerce",
+      "episodeNumber": 470,
+      "publishedTime": 1622190659000,
+      "durationSeconds": 3552,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-447-the-bert-adjacent-ugly-wheels-of-commerce/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-447.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 448: Mice and Diamonds",
+      "episodeNumber": 471,
+      "publishedTime": 1622795401000,
+      "durationSeconds": 4497,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-448-mice-and-diamonds/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-448.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 449: Quietly Judging You",
+      "episodeNumber": 472,
+      "publishedTime": 1623400218000,
+      "durationSeconds": 4086,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-449-quietly-judging-you/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-449.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 450: LIGHTNING ROUND!!!",
+      "episodeNumber": 473,
+      "publishedTime": 1624005055000,
+      "durationSeconds": 3627,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-450-lightning-round/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-450.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 451: Bring a Bunch of Idiots",
+      "episodeNumber": 474,
+      "publishedTime": 1624609807000,
+      "durationSeconds": 4222,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-451-bring-a-bunch-of-idiots/",
+      "mediaLink": "http://www.kenandrobintalkaboutstuff.com/wp-content/uploads/2021/06/Ken-And-Robin-Talk-About-Stuff-Episode-451.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 452: Don’t Look at the Leopards",
+      "episodeNumber": 475,
+      "publishedTime": 1625214642000,
+      "durationSeconds": 3875,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-452-dont-look-at-the-leopards/",
+      "mediaLink": "http://www.kenandrobintalkaboutstuff.com/wp-content/uploads/2021/06/Ken-And-Robin-Talk-About-Stuff-Episode-452.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 453: The Chicago Discount",
+      "episodeNumber": 476,
+      "publishedTime": 1625819405000,
+      "durationSeconds": 3967,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-453-the-chicago-discount/",
+      "mediaLink": "http://www.kenandrobintalkaboutstuff.com/wp-content/uploads/2021/06/Ken-And-Robin-Talk-About-Stuff-Episode-453.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 454: A Disreputable Trade",
+      "episodeNumber": 478,
+      "publishedTime": 1626424243000,
+      "durationSeconds": 3600,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-454-a-disreputable-trade/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-454.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 455: Ambush Us With Ghosts",
+      "episodeNumber": 479,
+      "publishedTime": 1627029003000,
+      "durationSeconds": 4534,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-455-ambush-us-with-ghosts/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-455.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 456: Least Worst Hell",
+      "episodeNumber": 480,
+      "publishedTime": 1627633813000,
+      "durationSeconds": 3829,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-456-least-worst-hell/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-456.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 457: A Lot to Lay on the Genius Loci",
+      "episodeNumber": 481,
+      "publishedTime": 1628238608000,
+      "durationSeconds": 3921,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-457-a-lot-to-lay-on-the-genius-loci/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-457.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 458: Slacker Infant",
+      "episodeNumber": 482,
+      "publishedTime": 1628843418000,
+      "durationSeconds": 3877,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-458-slacker-infant/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-458.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 459: Dragons Are the Federal Reserve",
+      "episodeNumber": 483,
+      "publishedTime": 1629448235000,
+      "durationSeconds": 4770,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-459-dragons-are-the-federal-reserve/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-459.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 460: The Price is Scarecrow",
+      "episodeNumber": 484,
+      "publishedTime": 1630053040000,
+      "durationSeconds": 4324,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-460-the-price-is-scarecrow/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-460.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 462: I Can Turn Him Into a Skink",
+      "episodeNumber": 486,
+      "publishedTime": 1631262606000,
+      "durationSeconds": 3947,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-462-i-can-turn-him-into-a-skink/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-462.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 463: The Bubble Wrap of Roleplaying Games",
+      "episodeNumber": 487,
+      "publishedTime": 1631867310000,
+      "durationSeconds": 3749,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-463-the-bubble-wrap-of-roleplaying-games/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-463.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 464: By Fun You Mean Opaque",
+      "episodeNumber": 488,
+      "publishedTime": 1632472245000,
+      "durationSeconds": 3916,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-464-by-fun-you-mean-opaque/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-464.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 465: Sour Joe",
+      "episodeNumber": 489,
+      "publishedTime": 1633077000000,
+      "durationSeconds": 3390,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-465-sour-joe/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-465.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 466: Foolish Enough to Get Near Us",
+      "episodeNumber": 490,
+      "publishedTime": 1633681852000,
+      "durationSeconds": 3536,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-466-foolish-enough-to-get-near-us/",
+      "mediaLink": "http://www.kenandrobintalkaboutstuff.com/wp-content/uploads/2021/10/Ken-And-Robin-Talk-About-Stuff-Episode-466.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 467: Can We Make It Blow Up?",
+      "episodeNumber": 491,
+      "publishedTime": 1634286625000,
+      "durationSeconds": 4200,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-467-can-we-make-it-blow-up/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-467.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 468: Weird Mushroom Things and a Swirl Over There",
+      "episodeNumber": 492,
+      "publishedTime": 1634891454000,
+      "durationSeconds": 4430,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-468-can-we-make-it-blow-up/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-468.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 469: Real Rumors",
+      "episodeNumber": 494,
+      "publishedTime": 1635496202000,
+      "durationSeconds": 3896,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-469-real-rumors/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-469.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 470: Snailteaser",
+      "episodeNumber": 495,
+      "publishedTime": 1636101031000,
+      "durationSeconds": 3943,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-470-snailteaser/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-470.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 471: They Called Him Johnny Polymorph",
+      "episodeNumber": 496,
+      "publishedTime": 1636705908000,
+      "durationSeconds": 4126,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-471/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-471.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 472: Running Away from a Bush",
+      "episodeNumber": 497,
+      "publishedTime": 1637310633000,
+      "durationSeconds": 4150,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-472-running-away-from-a-bush/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-472.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "[Corrected] Episode 472: Running Away from a Bush",
+      "episodeNumber": 498,
+      "publishedTime": 1637429597000,
+      "durationSeconds": 4145,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/corrected-episode-472-running-away-from-a-bush/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-472-2.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 473: The Special Ability is It’s a Gun",
+      "episodeNumber": 499,
+      "publishedTime": 1637915425000,
+      "durationSeconds": 4024,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-473-the-special-ability-is-its-a-gun/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-473.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 474: Becuthbert",
+      "episodeNumber": 500,
+      "publishedTime": 1638520212000,
+      "durationSeconds": 3799,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-474-becuthbert/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-474.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 475: Romance or Blasphemy",
+      "episodeNumber": 501,
+      "publishedTime": 1639125043000,
+      "durationSeconds": 4064,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-475-romance-or-blasphemy/",
+      "mediaLink": "http://www.kenandrobintalkaboutstuff.com/wp-content/uploads/2021/12/Ken-And-Robin-Talk-About-Stuff-Episode-475.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 476: Homeostasis and Recurrence in Great Power Relations",
+      "episodeNumber": 502,
+      "publishedTime": 1639729807000,
+      "durationSeconds": 5149,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-476-homeostasis-and-recurrence-in-great-power-relations/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-476.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 477: Not For That, But Not Not For That",
+      "episodeNumber": 503,
+      "publishedTime": 1640334608000,
+      "durationSeconds": 4262,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-477-not-for-that-but-not-not-for-that/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-477.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 478: His Pursevant Had Dropsy",
+      "episodeNumber": 504,
+      "publishedTime": 1641544213000,
+      "durationSeconds": 4748,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-478-his-pursevant-had-dropsy/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-478.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 479: His Old Draping Skills",
+      "episodeNumber": 505,
+      "publishedTime": 1642149030000,
+      "durationSeconds": 3868,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-479-his-old-draping-skills/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-479.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 480: Not Described Otherwise as Being a Metal Tube",
+      "episodeNumber": 506,
+      "publishedTime": 1642753834000,
+      "durationSeconds": 4535,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-480-not-described-otherwise-as-being-a-metal-tube/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-480.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 481: We Love This Gnoll",
+      "episodeNumber": 508,
+      "publishedTime": 1643358611000,
+      "durationSeconds": 3823,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-481-we-love-this-gnoll/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-481.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 482: I Never Really Got Rid of Her",
+      "episodeNumber": 509,
+      "publishedTime": 1643963412000,
+      "durationSeconds": 3759,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-482-i-never-really-got-rid-of-her/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-482.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 483: Don’t Come at Me, Circle People",
+      "episodeNumber": 510,
+      "publishedTime": 1644568236000,
+      "durationSeconds": 3700,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-483-dont-come-at-me-circle-people/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-483.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 484: Unprecedented Snow",
+      "episodeNumber": 511,
+      "publishedTime": 1645173006000,
+      "durationSeconds": 3742,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-484-unprecedented-snow/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-484.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 485: What I Might Have Done in the Future",
+      "episodeNumber": 512,
+      "publishedTime": 1645777834000,
+      "durationSeconds": 3766,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-485-what-i-might-have-done-in-the-future/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-485.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 486: Temple of Political Evil",
+      "episodeNumber": 513,
+      "publishedTime": 1646382628000,
+      "durationSeconds": 4887,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-486-temple-of-political-evil/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-486.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "[REPOST] Episode 486: Temple of Political Evil",
+      "episodeNumber": 514,
+      "publishedTime": 1646423319000,
+      "durationSeconds": 4887,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/repost-episode-486-temple-of-political-evil/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-486.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 487: Nothing More Organic Than a Moon",
+      "episodeNumber": 515,
+      "publishedTime": 1646987423000,
+      "durationSeconds": 3905,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-487-nothing-more-organic-than-a-moon/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-487.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 488: The Da Vinci Code of Numbers",
+      "episodeNumber": 516,
+      "publishedTime": 1647592034000,
+      "durationSeconds": 4421,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-488-the-da-vinci-code-of-numbers/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-488.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 490: They Left the Irony Bridge Intact",
+      "episodeNumber": 518,
+      "publishedTime": 1648801831000,
+      "durationSeconds": 3963,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-490-they-left-the-irony-bridge-intact/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/Ken-And-Robin-Talk-About-Stuff-Episode-490.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 491: Stormy Petrels of Crime",
+      "episodeNumber": 519,
+      "publishedTime": 1649406778000,
+      "durationSeconds": 3845,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-491-stormy-petrels-of-crime/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KenAndRobinTalkAboutStuffEpisode491.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 492: More Feck in the Bank",
+      "episodeNumber": 520,
+      "publishedTime": 1650011413000,
+      "durationSeconds": 4417,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-492-more-feck-in-the-bank/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS492.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 493: That New Cleaning Acid",
+      "episodeNumber": 522,
+      "publishedTime": 1650616233000,
+      "durationSeconds": 3806,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-493-that-new-cleaning-acid/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS493.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 494: Sidekicks to the Bear",
+      "episodeNumber": 523,
+      "publishedTime": 1651221051000,
+      "durationSeconds": 3769,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-494-sidekicks-to-the-bear/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS494.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 495: More of an Octagon",
+      "episodeNumber": 524,
+      "publishedTime": 1651825819000,
+      "durationSeconds": 4046,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-495-more-of-an-octagon/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS495.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 496: Tonsils Not Included",
+      "episodeNumber": 525,
+      "publishedTime": 1652430600000,
+      "durationSeconds": 3877,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-496-tonsils-not-included/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS496.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 497: Edgelord Tarot",
+      "episodeNumber": 526,
+      "publishedTime": 1653035413000,
+      "durationSeconds": 3909,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-497-edgelord-tarot/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS497.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 498: Time Narcs",
+      "episodeNumber": 528,
+      "publishedTime": 1653640258000,
+      "durationSeconds": 4191,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-498-time-narcs/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS498.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 499: The Easily Discouraged Ones",
+      "episodeNumber": 529,
+      "publishedTime": 1654245021000,
+      "durationSeconds": 3565,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-499-the-easily-discouraged-ones/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS499.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 500: LIGHTNING ROUND!!!",
+      "episodeNumber": 531,
+      "publishedTime": 1654849802000,
+      "durationSeconds": 4345,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-500-lightning-round/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS500.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 501: Go Toward the Omen",
+      "episodeNumber": 532,
+      "publishedTime": 1655454602000,
+      "durationSeconds": 3846,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-501-go-toward-the-omen/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS501.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 502: Aramaic Mutterer Whisperer",
+      "episodeNumber": 533,
+      "publishedTime": 1656059301000,
+      "durationSeconds": 3834,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-502-aramaic-mutterer-whisperer/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS502.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 503: Distinctively Muppety",
+      "episodeNumber": 535,
+      "publishedTime": 1656664252000,
+      "durationSeconds": 3610,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-503-distinctively-muppety/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS503.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 504: Area Nihilists",
+      "episodeNumber": 536,
+      "publishedTime": 1657269042000,
+      "durationSeconds": 4136,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-504-area-nihilists/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS504.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 505: Move Them Back to the Fun",
+      "episodeNumber": 537,
+      "publishedTime": 1657873842000,
+      "durationSeconds": 3415,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-505-move-them-back-to-the-fun/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS505.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 506: His Bonaparte Eyes",
+      "episodeNumber": 538,
+      "publishedTime": 1658478659000,
+      "durationSeconds": 4186,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-506-his-bonaparte-eyes/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS506.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 507: Awesomely Underfunded",
+      "episodeNumber": 539,
+      "publishedTime": 1659083422000,
+      "durationSeconds": 3779,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-507-awesomely-underfunded/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS507.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 508: KARTAS A-Z",
+      "episodeNumber": 540,
+      "publishedTime": 1659688205000,
+      "durationSeconds": 4184,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-508-kartas-a-z/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS508.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 509: Charismatic Megafauna of Food",
+      "episodeNumber": 541,
+      "publishedTime": 1660293045000,
+      "durationSeconds": 3929,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-509-charismatic-megafauna-of-food/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS509.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 510: The Worst Chocolate, The Worst Cake",
+      "episodeNumber": 542,
+      "publishedTime": 1660897803000,
+      "durationSeconds": 2906,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-510-the-worst-chocolate-the-worst-cake/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS510.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 511: I Just Wanted to Say Astrosome",
+      "episodeNumber": 543,
+      "publishedTime": 1661502657000,
+      "durationSeconds": 3656,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-511-i-just-wanted-to-say-astrosome/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS511.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 512: The Spiders Pay For Themselves",
+      "episodeNumber": 544,
+      "publishedTime": 1662107410000,
+      "durationSeconds": 3951,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-512-the-spiders-pay-for-themselves/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS512.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 513: Tiptoe Away from His Flailing Proboscis",
+      "episodeNumber": 545,
+      "publishedTime": 1662712233000,
+      "durationSeconds": 3562,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-513/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/KARTAS513.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 514: Joseph Campbell in a Jar",
+      "episodeNumber": 546,
+      "publishedTime": 1663317012000,
+      "durationSeconds": 3672,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-514-joseph-campbell-in-a-jar/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS514.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 515: Live from Gen Con 2022",
+      "episodeNumber": 547,
+      "publishedTime": 1663921846000,
+      "durationSeconds": 3089,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-515-live-from-gen-con-2022/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS515.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 516: Co-Frankensteining",
+      "episodeNumber": 548,
+      "publishedTime": 1664526627000,
+      "durationSeconds": 3402,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-516-co-frankensteining/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS516.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 517: Kinda Goopy",
+      "episodeNumber": 549,
+      "publishedTime": 1665131627000,
+      "durationSeconds": 4427,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-517-kinda-goopy/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS517.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 518: A Big Fan of Heliocentrism",
+      "episodeNumber": 550,
+      "publishedTime": 1665736254000,
+      "durationSeconds": 4202,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-518-a-big-fan-of-heliocentrism/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS518.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 519: Everything Weak and Flimsy",
+      "episodeNumber": 551,
+      "publishedTime": 1666341049000,
+      "durationSeconds": 3973,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-519-everything-weak-and-flimsy/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS519.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 520: Cell Phone From the Elder Things",
+      "episodeNumber": 552,
+      "publishedTime": 1666945841000,
+      "durationSeconds": 3435,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-520-cell-phone-from-the-elder-things/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS520.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 521: You Can’t See Atlantis for All the Cheese Curds",
+      "episodeNumber": 553,
+      "publishedTime": 1667550621000,
+      "durationSeconds": 4351,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-521-you-cant-see-atlantis-for-all-the-cheese-curds/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS521.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 522: Pre-Rex",
+      "episodeNumber": 554,
+      "publishedTime": 1668155426000,
+      "durationSeconds": 3833,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-522-pre-rex/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS522.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 523: Never Seen With a Windsock",
+      "episodeNumber": 555,
+      "publishedTime": 1668760253000,
+      "durationSeconds": 3274,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-523-never-seen-with-a-windsock/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS523.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 524: Let’s Just Dump It in the West",
+      "episodeNumber": 556,
+      "publishedTime": 1669365028000,
+      "durationSeconds": 3727,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-524-lets-just-dump-it-in-the-west/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS524.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 525: Neptune Reveal Party",
+      "episodeNumber": 558,
+      "publishedTime": 1669969836000,
+      "durationSeconds": 4284,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-525-neptune-reveal-party/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS525.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 526: From What Steve Did",
+      "episodeNumber": 559,
+      "publishedTime": 1670574634000,
+      "durationSeconds": 4015,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-526-from-what-steve-did/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS526.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 527: 100% Game Handoutable",
+      "episodeNumber": 560,
+      "publishedTime": 1671179409000,
+      "durationSeconds": 3940,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-527-100-game-handoutable/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS527.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 528: Live at Dragonmeet",
+      "episodeNumber": 561,
+      "publishedTime": 1671784252000,
+      "durationSeconds": 2953,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-528-live-at-dragonmeet/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS528.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 529: More Cryptids Than It Can Consume Domestically",
+      "episodeNumber": 562,
+      "publishedTime": 1672993837000,
+      "durationSeconds": 4263,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-529-more-cryptids-than-it-can-consume-domestically/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS529.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 530: More Than One Adida",
+      "episodeNumber": 563,
+      "publishedTime": 1673598636000,
+      "durationSeconds": 3724,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-530-more-than-one-adida/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS530.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 531: The Copts Still Have His Head",
+      "episodeNumber": 564,
+      "publishedTime": 1674203445000,
+      "durationSeconds": 3356,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-531-the-copts-still-have-his-head/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS531.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 532: In Which Ken Is Shot",
+      "episodeNumber": 565,
+      "publishedTime": 1674808249000,
+      "durationSeconds": 3759,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-332-in-which-ken-is-shot/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS532.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 533: Best Non-Answer of the 19th Century",
+      "episodeNumber": 566,
+      "publishedTime": 1675413001000,
+      "durationSeconds": 4122,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-533-best-non-answer-of-the-19th-century/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS533.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 534: Manimal Utopia",
+      "episodeNumber": 567,
+      "publishedTime": 1676017835000,
+      "durationSeconds": 3901,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-534-manimal-utopia/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS534.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 535: NASA is Not in the Neck Adjustment Business",
+      "episodeNumber": 568,
+      "publishedTime": 1676622653000,
+      "durationSeconds": 4008,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-535-nasa-is-not-in-the-neck-adjustment-business/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS535.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 536: A Box Somewhere in Scotland",
+      "episodeNumber": 569,
+      "publishedTime": 1677227415000,
+      "durationSeconds": 3789,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-536-a-box-somewhere-in-scotland/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS536.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 537: Bring Me the Incompetent Laggard File",
+      "episodeNumber": 570,
+      "publishedTime": 1677832211000,
+      "durationSeconds": 4097,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-537-bring-me-the-incompetent-laggard-file/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS537.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 538: Perhaps an Exploder",
+      "episodeNumber": 571,
+      "publishedTime": 1678437025000,
+      "durationSeconds": 5173,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-538-perhaps-an-exploder/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS538.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 539: Players and/or Humans",
+      "episodeNumber": 572,
+      "publishedTime": 1679041822000,
+      "durationSeconds": 3863,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-539-players-and-or-humans/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS539.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 540: Kaiju Angering Chemical",
+      "episodeNumber": 573,
+      "publishedTime": 1679646606000,
+      "durationSeconds": 3565,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-540-kaiju-angering-chemical/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS540.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 541: That’s Where You Collect Your Bonus",
+      "episodeNumber": 574,
+      "publishedTime": 1680251421000,
+      "durationSeconds": 3584,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-541-thats-where-you-collect-your-bonus/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS541.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 542: Classic Snake Swap-Out",
+      "episodeNumber": 575,
+      "publishedTime": 1680856218000,
+      "durationSeconds": 3672,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-542-classic-snake-swap-out/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS542.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 543: Truffle Bulettes",
+      "episodeNumber": 576,
+      "publishedTime": 1681460937000,
+      "durationSeconds": 4240,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-543-truffle-bulettes/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS543.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 544: Sean Connery’s Speedo",
+      "episodeNumber": 577,
+      "publishedTime": 1682065824000,
+      "durationSeconds": 4090,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-544-sean-connerys-speedo/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS544.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 545: B-52s are Just Very Large Horses",
+      "episodeNumber": 578,
+      "publishedTime": 1682670643000,
+      "durationSeconds": 4301,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-545-b-52s-are-just-very-large-horses/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS545.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 546: Now I Can Talk To Plants",
+      "episodeNumber": 579,
+      "publishedTime": 1683275456000,
+      "durationSeconds": 4053,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-546-now-i-can-talk-to-plants/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS546.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 547: Such Things as No",
+      "episodeNumber": 580,
+      "publishedTime": 1683880200000,
+      "durationSeconds": 4234,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-547/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS547.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 548: The Rhino and I Have an Alibi",
+      "episodeNumber": 581,
+      "publishedTime": 1684485000000,
+      "durationSeconds": 3803,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-548-the-rhino-and-i-have-an-alibi/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS548.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 549: Secretly About Papyrus",
+      "episodeNumber": 582,
+      "publishedTime": 1685089800000,
+      "durationSeconds": 3967,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-549-secretly-about-papyrus/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS549.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 550: LIGHTNING ROUND!!!",
+      "episodeNumber": 583,
+      "publishedTime": 1685694600000,
+      "durationSeconds": 3671,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-550/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS550.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 551: It&#8217;s a Bad Gun",
+      "episodeNumber": 584,
+      "publishedTime": 1686299400000,
+      "durationSeconds": 4496,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-551-its-a-bad-gun/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS551.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 552: Worse Hats",
+      "episodeNumber": 585,
+      "publishedTime": 1686875400000,
+      "durationSeconds": 4162,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-552-worse-hats/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS552.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 553: They Get a Really Great Poem Out of It",
+      "episodeNumber": 586,
+      "publishedTime": 1687509000000,
+      "durationSeconds": 3341,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-553-they-get-a-really-great-poem-out-of-it/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS553.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 554: The Best Way to Annoy a Husband",
+      "episodeNumber": 587,
+      "publishedTime": 1688113800000,
+      "durationSeconds": 4159,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-554-the-best-way-to-annoy-a-husband/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS554.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 555: Do We Get a Deal for Seven?",
+      "episodeNumber": 588,
+      "publishedTime": 1688718600000,
+      "durationSeconds": 3824,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-555-do-we-get-a-deal-for-seven/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS555.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 556: We Touched the Thing in Tomb of Horrors",
+      "episodeNumber": 589,
+      "publishedTime": 1689323460000,
+      "durationSeconds": 3397,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-556-we-touched-the-thing-in-tomb-of-horrors/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS556.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 557: All Four-Sided",
+      "episodeNumber": 590,
+      "publishedTime": 1689928020000,
+      "durationSeconds": 3878,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-557-all-four-sided/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS557.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 558: Any Other Stupid Cave Lake",
+      "episodeNumber": 591,
+      "publishedTime": 1690533000000,
+      "durationSeconds": 4023,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-558-any-other-stupid-cave-lake/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS558.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 559: It’s Not a Two Demon Bag",
+      "episodeNumber": 592,
+      "publishedTime": 1691137800000,
+      "durationSeconds": 3915,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-559-its-not-a-two-demon-bag/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/KARTAS559.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 560: A Total Gef Move",
+      "episodeNumber": 593,
+      "publishedTime": 1691742600000,
+      "durationSeconds": 3577,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-560-a-total-gef-move/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS560.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 561: If Sauron Was an Eye of Love",
+      "episodeNumber": 594,
+      "publishedTime": 1692347400000,
+      "durationSeconds": 3616,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-561-if-sauron-was-an-eye-of-love/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS561.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 562: Never Refer to Peoples’ Necks",
+      "episodeNumber": 595,
+      "publishedTime": 1692952200000,
+      "durationSeconds": 3522,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-562-never-refer-to-peoples-necks/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS562.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 563: The Human Salmon of 1737",
+      "episodeNumber": 596,
+      "publishedTime": 1693557000000,
+      "durationSeconds": 3660,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-563-the-human-salmon-of-1737/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS563.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 564: Speciation Event",
+      "episodeNumber": 597,
+      "publishedTime": 1694161800000,
+      "durationSeconds": 3787,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-564-speciation-event/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS564.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 565: Live at Gen Con 2023",
+      "episodeNumber": 598,
+      "publishedTime": 1694766600000,
+      "durationSeconds": 2806,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-565-live-at-gen-con-2023/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS565.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 566: You Are a Special Island",
+      "episodeNumber": 599,
+      "publishedTime": 1695371400000,
+      "durationSeconds": 3781,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-566-you-are-a-special-island/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS566.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 567: All This Stupid Wheat",
+      "episodeNumber": 600,
+      "publishedTime": 1695976200000,
+      "durationSeconds": 5012,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-567-all-this-stupid-wheat/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS567.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 568: Dream Ghosts",
+      "episodeNumber": 601,
+      "publishedTime": 1696581000000,
+      "durationSeconds": 3842,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-568-dream-ghosts/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS568.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 569: Alacrity was Their Dump Stat",
+      "episodeNumber": 602,
+      "publishedTime": 1697185800000,
+      "durationSeconds": 4428,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-569-alacrity-was-their-dump-stat/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/KARTAS569.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 570: Perhaps I’m Wrung Out",
+      "episodeNumber": 604,
+      "publishedTime": 1697790600000,
+      "durationSeconds": 3428,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-570-perhaps-im-wrung-out/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS570.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 571: Forensic Chainsawologists",
+      "episodeNumber": 605,
+      "publishedTime": 1698395400000,
+      "durationSeconds": 4460,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-571-forensic-chainsawologists/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS571.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 572: Rains of Peas and Gravel",
+      "episodeNumber": 607,
+      "publishedTime": 1699000200000,
+      "durationSeconds": 3405,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-572-rains-of-peas-and-gravel/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS572.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 573: Have a Train Handy",
+      "episodeNumber": 608,
+      "publishedTime": 1699605000000,
+      "durationSeconds": 3579,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-573-have-a-train-handy/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS573.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 574: Kettle of Worms",
+      "episodeNumber": 609,
+      "publishedTime": 1700209800000,
+      "durationSeconds": 4152,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-574-kettle-of-worms/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS574.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 575: Your Starter Past Life",
+      "episodeNumber": 610,
+      "publishedTime": 1700814600000,
+      "durationSeconds": 3548,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-575-your-starter-past-life/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS575.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 576: Pantheon Hop",
+      "episodeNumber": 611,
+      "publishedTime": 1701419400000,
+      "durationSeconds": 3719,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-576-pantheon-hop/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS576.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 577: A Glove on the Flipper",
+      "episodeNumber": 613,
+      "publishedTime": 1702046617000,
+      "durationSeconds": 3982,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-577-a-glove-on-the-flipper/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS577.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 578: Subtitle Quibbler",
+      "episodeNumber": 615,
+      "publishedTime": 1702629000000,
+      "durationSeconds": 4231,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-578-subtitle-quibbler/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS578.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 579: Live at Dragonmeet 2023",
+      "episodeNumber": 616,
+      "publishedTime": 1703233800000,
+      "durationSeconds": 2699,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-579-live-at-dragonmeet-2023/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS579.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 580: The Most Fun Word in the History of Metallurgy",
+      "episodeNumber": 617,
+      "publishedTime": 1704467253000,
+      "durationSeconds": 3929,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-580-the-most-fun-word-in-the-history-of-metallurgy/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS580.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 581: Bureaucratic Survival Horror",
+      "episodeNumber": 618,
+      "publishedTime": 1705048200000,
+      "durationSeconds": 3826,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-581-bureaucratic-survival-horror/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS581.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 582: That’s a Bad Laser",
+      "episodeNumber": 619,
+      "publishedTime": 1705675364000,
+      "durationSeconds": 4062,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-582-thats-a-bad-laser/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS582.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 583: Marge the Druid is Feeling Rejected",
+      "episodeNumber": 620,
+      "publishedTime": 1706257800000,
+      "durationSeconds": 3687,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-583-marge-the-druid-is-feeling-rejected/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS583.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 584: Maybe a Murder is Good Sometimes",
+      "episodeNumber": 621,
+      "publishedTime": 1706862600000,
+      "durationSeconds": 3685,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-584-maybe-a-murder-is-good-sometimes/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS584.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 585: Advice and Holy Water",
+      "episodeNumber": 622,
+      "publishedTime": 1707467400000,
+      "durationSeconds": 3705,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-585-advice-and-holy-water/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS585.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 586: The Velveteen Rabbit of Signage",
+      "episodeNumber": 624,
+      "publishedTime": 1708072200000,
+      "durationSeconds": 3935,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-586-the-velveteen-rabbit-of-signage/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS586.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 587: Someone’s Gonna Wear the Skin",
+      "episodeNumber": 625,
+      "publishedTime": 1708677000000,
+      "durationSeconds": 3957,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-587-someones-gonna-wear-the-skin/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS587.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 588: Full Stop Anti-Marooning",
+      "episodeNumber": 626,
+      "publishedTime": 1709281800000,
+      "durationSeconds": 3678,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-588-full-stop-anti-marooning/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS588.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 589: Ordo Veritatis Chicago",
+      "episodeNumber": 627,
+      "publishedTime": 1709886600000,
+      "durationSeconds": 4893,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-589-ordo-veritatis-chicago/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS589.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 590: Rolled a Critical and Saved a Clown",
+      "episodeNumber": 628,
+      "publishedTime": 1710491400000,
+      "durationSeconds": 4020,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-590-rolled-a-critical-and-saved-a-clown/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS590.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 591: Good Fun That Barbarians Have",
+      "episodeNumber": 629,
+      "publishedTime": 1711096200000,
+      "durationSeconds": 3824,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-591-good-fun-that-barbarians-have/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS591.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 592: A Rhode Island Level of Excitement",
+      "episodeNumber": 630,
+      "publishedTime": 1711701000000,
+      "durationSeconds": 3688,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-592-a-rhode-island-level-of-excitement/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS592.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 593: Supermarket of Murder",
+      "episodeNumber": 632,
+      "publishedTime": 1712305800000,
+      "durationSeconds": 4573,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-593-supermarket-of-murder/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS593.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 594: Bishop of the Drowned Land",
+      "episodeNumber": 633,
+      "publishedTime": 1712910600000,
+      "durationSeconds": 4055,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-594-bishop-of-the-drowned-land/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS594.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 595: IPA Aliens",
+      "episodeNumber": 634,
+      "publishedTime": 1713515400000,
+      "durationSeconds": 3647,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-595-ipa-aliens/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS595.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 596: Also a No Show Job",
+      "episodeNumber": 635,
+      "publishedTime": 1714120200000,
+      "durationSeconds": 3471,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-596-also-a-no-show-job/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS596.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 597: The Copper Scroll is Real",
+      "episodeNumber": 636,
+      "publishedTime": 1714725000000,
+      "durationSeconds": 4632,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-597-the-copper-scroll-is-real/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS597.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 598: Do We Really Want That Horse In Here?",
+      "episodeNumber": 637,
+      "publishedTime": 1715329800000,
+      "durationSeconds": 3817,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-598-do-we-really-want-that-horse-in-here/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS598.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 599: You Can’t Rule Fish Out",
+      "episodeNumber": 638,
+      "publishedTime": 1715934600000,
+      "durationSeconds": 3450,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-599-you-cant-rule-fish-out/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS599.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 600: LIGHTNING ROUND!!!",
+      "episodeNumber": 639,
+      "publishedTime": 1716539400000,
+      "durationSeconds": 2505,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-600-lightning-round/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS600.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 601: Hydrate and Fix Your Boot",
+      "episodeNumber": 640,
+      "publishedTime": 1717144200000,
+      "durationSeconds": 4335,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-601-hydrate-and-fix-your-boot/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS601.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 602: They Have a Space Lawyer",
+      "episodeNumber": 641,
+      "publishedTime": 1717749000000,
+      "durationSeconds": 4201,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-602-they-have-a-space-lawyer/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS602.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 603: He&#8217;s a Pregen",
+      "episodeNumber": 642,
+      "publishedTime": 1718353800000,
+      "durationSeconds": 3705,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-603/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS603.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 604: It Takes a While to Work",
+      "episodeNumber": 643,
+      "publishedTime": 1718958480000,
+      "durationSeconds": 4449,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-604-it-takes-a-while-to-work/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS604.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 605: Astrophysicists Not Acronym Physicists",
+      "episodeNumber": 644,
+      "publishedTime": 1719584852000,
+      "durationSeconds": 3928,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-605-astrophysicists-not-acronym-physicists/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS605.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 606: Very Real Threat of Dialogue",
+      "episodeNumber": 645,
+      "publishedTime": 1720168200000,
+      "durationSeconds": 3718,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-606-astrophysicists-not-acronym-physicists/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS606.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "[REPOST] Episode 606: Very Real Threat of Dialogue",
+      "episodeNumber": 646,
+      "publishedTime": 1720617441000,
+      "durationSeconds": 3718,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/repost-episode-606-very-real-threat-of-dialogue/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS606.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 607: Legend of the Feral Pears",
+      "episodeNumber": 647,
+      "publishedTime": 1720773000000,
+      "durationSeconds": 3708,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-607-legend-of-the-feral-pears/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS607.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 608: The Power is in the Booties",
+      "episodeNumber": 648,
+      "publishedTime": 1721377800000,
+      "durationSeconds": 4089,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-608-the-power-is-in-the-booties/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS608.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 609: Not French Enough to Wield the Sword",
+      "episodeNumber": 649,
+      "publishedTime": 1721982600000,
+      "durationSeconds": 4088,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-609-not-french-enough-to-wield-the-sword/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS609.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 610: She Probably Met a Nice God",
+      "episodeNumber": 650,
+      "publishedTime": 1722587400000,
+      "durationSeconds": 3488,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-610-she-probably-met-a-nice-god/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS610.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 611: Terrible Ideas Deflation",
+      "episodeNumber": 651,
+      "publishedTime": 1723192200000,
+      "durationSeconds": 3920,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-611-terrible-ideas-deflation/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS611.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 612: Into the Tundra to Dig Gypsum",
+      "episodeNumber": 652,
+      "publishedTime": 1723797000000,
+      "durationSeconds": 3697,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-612-into-the-tundra-to-dig-gypsum/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS612.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 613: How Does the Treasure Make Me Feel?",
+      "episodeNumber": 653,
+      "publishedTime": 1724401860000,
+      "durationSeconds": 4278,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-613-how-does-the-treasure-make-me-feel/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/KARTAS613.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 614: Elves Falling in Love with Guitarists",
+      "episodeNumber": 654,
+      "publishedTime": 1725006600000,
+      "durationSeconds": 4275,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-614-elves-falling-in-love-with-guitarists/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS614.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 615: Ranger Problems",
+      "episodeNumber": 655,
+      "publishedTime": 1725611400000,
+      "durationSeconds": 3932,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-615-ranger-problems/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS615.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 616: They Got to Construin&#8217; Verbs",
+      "episodeNumber": 656,
+      "publishedTime": 1726216200000,
+      "durationSeconds": 3785,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-616-they-got-to-construin-verbs/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS616.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 617: Live at Gen Con",
+      "episodeNumber": 657,
+      "publishedTime": 1726821000000,
+      "durationSeconds": 2807,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-617-live-at-gen-con/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/KARTAS617.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 618: The Big Dipper is Weird",
+      "episodeNumber": 658,
+      "publishedTime": 1727425800000,
+      "durationSeconds": 4351,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-618-the-big-dipper-is-weird/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/KARTAS618.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 619: The Zeppo of the Golden Dawn",
+      "episodeNumber": 659,
+      "publishedTime": 1728030600000,
+      "durationSeconds": 4178,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-619-the-zeppo-of-the-golden-dawn/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS619.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 620: Where’s All My Bones Gone?",
+      "episodeNumber": 660,
+      "publishedTime": 1728635400000,
+      "durationSeconds": 4526,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-620-wheres-all-my-bones-gone/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS620.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 621: Also I Would Like to Own Smaland",
+      "episodeNumber": 661,
+      "publishedTime": 1729240200000,
+      "durationSeconds": 4113,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-621-also-i-would-like-to-own-smaland/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS621.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 622: In the Interest of Asking a Question",
+      "episodeNumber": 662,
+      "publishedTime": 1729845000000,
+      "durationSeconds": 4193,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-622-in-the-interest-of-asking-a-question/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS622.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 623: Bored Lumberjacks",
+      "episodeNumber": 664,
+      "publishedTime": 1730449800000,
+      "durationSeconds": 3767,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-623-bored-lumberjacks/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS623.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 624: Impractical at Most Gaming Tables",
+      "episodeNumber": 665,
+      "publishedTime": 1731054600000,
+      "durationSeconds": 4046,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-624-impractical-at-most-gaming-tables/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS624.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 625: You’ve Got a Dark Level",
+      "episodeNumber": 666,
+      "publishedTime": 1731659400000,
+      "durationSeconds": 3603,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-625-youve-got-a-dark-level/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS625.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 626: She Did Say Independent",
+      "episodeNumber": 667,
+      "publishedTime": 1732264200000,
+      "durationSeconds": 3603,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-626-she-did-say-independent/",
+      "mediaLink": "https://kenandrobin.s3.us-west-2.amazonaws.com/media/KARTAS626.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 627: The Dream of All Arts",
+      "episodeNumber": 668,
+      "publishedTime": 1732869000000,
+      "durationSeconds": 4098,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-627-the-dream-of-all-arts/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS627.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 628: July 1st Seems Good Enough",
+      "episodeNumber": 669,
+      "publishedTime": 1733473800000,
+      "durationSeconds": 3759,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-628-july-1st-seems-good-enough/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS628.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 629: Laugh With You Near Them",
+      "episodeNumber": 670,
+      "publishedTime": 1734078600000,
+      "durationSeconds": 3956,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-629-laugh-with-you-near-them/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS629.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 630: Live at Dragonmeet 2024",
+      "episodeNumber": 671,
+      "publishedTime": 1734683400000,
+      "durationSeconds": 2824,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-630-live-at-dragonmeet-2024/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS630.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 631: A Vestigial Nub",
+      "episodeNumber": 672,
+      "publishedTime": 1736497800000,
+      "durationSeconds": 3319,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-631-a-vestigial-nub/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS631.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 632: An American is Being Wrong",
+      "episodeNumber": 673,
+      "publishedTime": 1737102600000,
+      "durationSeconds": 4268,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-632-an-american-is-being-wrong/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS632.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 633: Barrel Full of Outlaw",
+      "episodeNumber": 674,
+      "publishedTime": 1737707400000,
+      "durationSeconds": 3476,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-633-barrel-full-of-outlaw/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS633.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 634: Jurisdiction Over Pretend Securities",
+      "episodeNumber": 675,
+      "publishedTime": 1738312200000,
+      "durationSeconds": 4381,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-634-jurisdiction-over-pretend-securities/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS634.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 635: His Cousin Latte Dick",
+      "episodeNumber": 676,
+      "publishedTime": 1738917000000,
+      "durationSeconds": 3721,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-635-his-cousin-latte-dick/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS635.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 636: I Don’t Know the Asparagus",
+      "episodeNumber": 677,
+      "publishedTime": 1739521800000,
+      "durationSeconds": 3569,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-636-i-dont-know-the-asparagus/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS636.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 637: Sausage Apologist",
+      "episodeNumber": 678,
+      "publishedTime": 1740126600000,
+      "durationSeconds": 3617,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-637-sausage-apologist/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS637.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 638: Subtlety is Its Enemy",
+      "episodeNumber": 679,
+      "publishedTime": 1740731400000,
+      "durationSeconds": 5133,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-638-subtlety-is-its-enemy/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS638.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 639: This Appendix Should Not Have Been Printed",
+      "episodeNumber": 680,
+      "publishedTime": 1741336200000,
+      "durationSeconds": 4693,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-639-this-appendix-should-not-have-been-printed/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS639.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 640: Smooth-Fingered Dystopia",
+      "episodeNumber": 681,
+      "publishedTime": 1741941000000,
+      "durationSeconds": 4105,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-640-smooth-fingered-dystopia/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS640.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 641: Consolation Mummy",
+      "episodeNumber": 682,
+      "publishedTime": 1742545800000,
+      "durationSeconds": 3976,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-641-consolation-mummy/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS641.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 642: Radicalized by a Fish",
+      "episodeNumber": 683,
+      "publishedTime": 1743150600000,
+      "durationSeconds": 4239,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-642-radicalized-by-a-fish/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS642.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 643: Not Even Enough Gnomes",
+      "episodeNumber": 684,
+      "publishedTime": 1743755400000,
+      "durationSeconds": 3936,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-643-not-even-enough-gnomes/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS643.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 644: This is Not a Skeptical Museum",
+      "episodeNumber": 685,
+      "publishedTime": 1744360200000,
+      "durationSeconds": 4108,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-644-this-is-not-a-skeptical-museum/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS644.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 645: I Don’t Make Up These Real Events",
+      "episodeNumber": 686,
+      "publishedTime": 1744965000000,
+      "durationSeconds": 3272,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-645-i-dont-make-up-these-real-events/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS645.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 646: Three Airstrikes, Total",
+      "episodeNumber": 687,
+      "publishedTime": 1745569800000,
+      "durationSeconds": 3246,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-646-three-airstrikes-total/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS646.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 647: Live at THE KRAKEN",
+      "episodeNumber": 688,
+      "publishedTime": 1746174600000,
+      "durationSeconds": 3683,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-647-live-at-the-kraken/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS647.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 648: Hey Isn’t That Ezra Pound?",
+      "episodeNumber": 689,
+      "publishedTime": 1746779400000,
+      "durationSeconds": 4052,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-648-hey-isnt-that-ezra-pound/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS648.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 649: I Should Join Your Undead Throng",
+      "episodeNumber": 690,
+      "publishedTime": 1747384200000,
+      "durationSeconds": 3856,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-649-i-should-join-your-undead-throng/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS649.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 650: LIGHTNING ROUND!!!",
+      "episodeNumber": 691,
+      "publishedTime": 1747989000000,
+      "durationSeconds": 3578,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-650-lightning-round/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS650.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 651: Meditating in a Cave",
+      "episodeNumber": 692,
+      "publishedTime": 1748593800000,
+      "durationSeconds": 4032,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-651-meditating-in-a-cave/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS651.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 652: Break a Window and Wait for Film Night",
+      "episodeNumber": 693,
+      "publishedTime": 1749198600000,
+      "durationSeconds": 3800,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-652-break-a-window-and-wait-for-film-night/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS652.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 653: Flankington’s Syndrome",
+      "episodeNumber": 694,
+      "publishedTime": 1749803400000,
+      "durationSeconds": 3942,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-653-flankingtons-syndrome/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS653.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 654: My Serpent Man Godfrey",
+      "episodeNumber": 695,
+      "publishedTime": 1750408200000,
+      "durationSeconds": 3912,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-654-my-serpent-man-godfrey/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS654.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 655: You Think Too Much About Pole Arms",
+      "episodeNumber": 696,
+      "publishedTime": 1751013000000,
+      "durationSeconds": 3887,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-655-you-think-too-much-about-pole-arms/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS655.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 656: They Brought Him Pig Lard",
+      "episodeNumber": 697,
+      "publishedTime": 1751617800000,
+      "durationSeconds": 3817,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-656-they-brought-him-pig-lard/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS656.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 657: More Mason, Less Free",
+      "episodeNumber": 698,
+      "publishedTime": 1752222600000,
+      "durationSeconds": 3818,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-657-more-mason-less-free/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS657.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 658: Personality Temu",
+      "episodeNumber": 699,
+      "publishedTime": 1752827400000,
+      "durationSeconds": 3873,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-658-personality-temu/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS658.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 659: We’ve Ouroborosed It",
+      "episodeNumber": 700,
+      "publishedTime": 1753432200000,
+      "durationSeconds": 4265,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-659-weve-ourobourosed-it/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS659.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 660: That’s North Brownland Energy",
+      "episodeNumber": 701,
+      "publishedTime": 1754037000000,
+      "durationSeconds": 3651,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-660-thats-north-brownland-energy/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS660.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 661: Dismiss All the Butlers",
+      "episodeNumber": 702,
+      "publishedTime": 1754641800000,
+      "durationSeconds": 3785,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-661-dismiss-all-the-butlers/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS661.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 662: Scuttlebutt City",
+      "episodeNumber": 703,
+      "publishedTime": 1755246600000,
+      "durationSeconds": 4169,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-662-scuttlebutt-city/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS662.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 663: I Know This Isn’t in the Brochure",
+      "episodeNumber": 704,
+      "publishedTime": 1755851400000,
+      "durationSeconds": 4142,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-663-i-know-this-isnt-in-the-brochure/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS663.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 664: Oxford, Another University",
+      "episodeNumber": 705,
+      "publishedTime": 1756456200000,
+      "durationSeconds": 3954,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-664-oxford-another-university/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS664.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 665: A Friend is a Crunchy Bit",
+      "episodeNumber": 706,
+      "publishedTime": 1757061000000,
+      "durationSeconds": 4077,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-665-a-friend-is-a-crunchy-bit/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS665.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 666: It Ruins the Flavor",
+      "episodeNumber": 707,
+      "publishedTime": 1757665800000,
+      "durationSeconds": 3901,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-666-it-ruins-the-flavor/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS666.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 667: Live at Gen Con",
+      "episodeNumber": 708,
+      "publishedTime": 1758270600000,
+      "durationSeconds": 2962,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-667-live-at-gen-con/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS667.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 668: Skating and Painting",
+      "episodeNumber": 709,
+      "publishedTime": 1758875400000,
+      "durationSeconds": 4147,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-668-skating-and-painting/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS668.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 669: His Botanist Turns On Him",
+      "episodeNumber": 710,
+      "publishedTime": 1759480200000,
+      "durationSeconds": 4341,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-669-his-botanist-turns-on-him/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS669.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 670: The Ghost of Cromwell&#8217;s Head",
+      "episodeNumber": 711,
+      "publishedTime": 1760085000000,
+      "durationSeconds": 4707,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-670-the-ghost-of-cromwells-head/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS670.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 671: Steve Is Hell",
+      "episodeNumber": 712,
+      "publishedTime": 1760689800000,
+      "durationSeconds": 3930,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-671-steve-is-hell/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS671.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 672: I Mostly Like Cowboys",
+      "episodeNumber": 713,
+      "publishedTime": 1761294600000,
+      "durationSeconds": 4228,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-672-i-mostly-like-cowboys/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS672.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 673: Rock, Paper, Fangs",
+      "episodeNumber": 714,
+      "publishedTime": 1761899400000,
+      "durationSeconds": 3548,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-673-rock-paper-fangs/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS673.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 674: As I Used to Pronounce It",
+      "episodeNumber": 715,
+      "publishedTime": 1762504200000,
+      "durationSeconds": 5134,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-674-as-i-used-to-pronounce-it/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS674.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 675: Performative Hermitry",
+      "episodeNumber": 716,
+      "publishedTime": 1763109000000,
+      "durationSeconds": 4394,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-675-performative-hermitry/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS675.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 676: Always Want to Get Book",
+      "episodeNumber": 717,
+      "publishedTime": 1763713800000,
+      "durationSeconds": 4007,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-676-always-want-to-get-book/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS676.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 677: South America is Very Long",
+      "episodeNumber": 718,
+      "publishedTime": 1764318600000,
+      "durationSeconds": 4296,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-677-south-america-is-very-long/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS677.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 678: A Word for All the Chairs",
+      "episodeNumber": 719,
+      "publishedTime": 1764923400000,
+      "durationSeconds": 3304,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-678-a-word-for-all-the-chairs/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS678.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 679: His Frequency is Powerful",
+      "episodeNumber": 720,
+      "publishedTime": 1765528200000,
+      "durationSeconds": 3920,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-679-his-frequency-is-powerful/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS679.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 680: It&#8217;s the American",
+      "episodeNumber": 721,
+      "publishedTime": 1766133000000,
+      "durationSeconds": 4432,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-680-its-the-american/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS680.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 681: Space Oprah",
+      "episodeNumber": 722,
+      "publishedTime": 1767947400000,
+      "durationSeconds": 3760,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-681-space-oprah/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS681.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 682: The Biter Has Departed",
+      "episodeNumber": 723,
+      "publishedTime": 1768552200000,
+      "durationSeconds": 4545,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-682-the-biter-has-departed/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS682.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 683: Disturbing Holes and Barrows",
+      "episodeNumber": 724,
+      "publishedTime": 1769157000000,
+      "durationSeconds": 3989,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-683-disturbing-holes-and-barrows/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS683.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 684: His Other Cavil is Even Worse",
+      "episodeNumber": 725,
+      "publishedTime": 1769761800000,
+      "durationSeconds": 3616,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-684-his-other-cavil-is-even-worse/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS684.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 685: Eleven Johnsons",
+      "episodeNumber": 727,
+      "publishedTime": 1770366600000,
+      "durationSeconds": 3662,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-685/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS685.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 686: Those are Saga Numbers",
+      "episodeNumber": 728,
+      "publishedTime": 1770971400000,
+      "durationSeconds": 3717,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-686-those-are-saga-numbers/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS686.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 687: Speaking of Magical Tools",
+      "episodeNumber": 729,
+      "publishedTime": 1771576200000,
+      "durationSeconds": 4141,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-687-speaking-of-magical-tools/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS687.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 688: Earthquake Marriage",
+      "episodeNumber": 730,
+      "publishedTime": 1772181000000,
+      "durationSeconds": 4535,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-688-earthquake-marriage/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS688.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 689: Bring Out the Claw",
+      "episodeNumber": 731,
+      "publishedTime": 1772785800000,
+      "durationSeconds": 3928,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-689-bring-out-the-claw/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS689.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 690: Never Look It Up",
+      "episodeNumber": 732,
+      "publishedTime": 1773390540000,
+      "durationSeconds": 5140,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-690-never-look-it-up/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS690.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 691 &#8211; From Such Triangles As",
+      "episodeNumber": 733,
+      "publishedTime": 1774012126000,
+      "durationSeconds": 4436,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-691-from-such-triangles-as-2/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS691.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 692: Guys Who Hate Mustaches in Kent",
+      "episodeNumber": 734,
+      "publishedTime": 1774600200000,
+      "durationSeconds": 3665,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-692-guys-who-hate-mustaches-in-kent/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS692.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 693: Suits or Whippersnappers",
+      "episodeNumber": 735,
+      "publishedTime": 1775205000000,
+      "durationSeconds": 4065,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-693-suits-or-whippersnappers/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS693.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 694: The Age of Plentiful Miniatures",
+      "episodeNumber": 736,
+      "publishedTime": 1775809800000,
+      "durationSeconds": 3708,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-694-the-age-of-plentiful-miniatures/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS694.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 695: You&#8217;ve Clearly Never Dealt with Balloon People",
+      "episodeNumber": 737,
+      "publishedTime": 1776414600000,
+      "durationSeconds": 3807,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-695-youve-clearly-never-dealt-with-balloon-people/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS695.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 696: Too Ready in Some Cases",
+      "episodeNumber": 738,
+      "publishedTime": 1777019340000,
+      "durationSeconds": 3861,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-696-too-ready-in-some-cases/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS696.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 697: Supposedly Good Idea Hall of Fame",
+      "episodeNumber": 739,
+      "publishedTime": 1777624200000,
+      "durationSeconds": 4170,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-697/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS697.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 698: A Common or Government Bar",
+      "episodeNumber": 740,
+      "publishedTime": 1778229000000,
+      "durationSeconds": 4242,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-698-a-common-or-government-bar/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS698.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 699: Double Deepfake",
+      "episodeNumber": 741,
+      "publishedTime": 1778833800000,
+      "durationSeconds": 3967,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-699-double-deepfake/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS699.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 700: LIGHTNING ROUNNNDD!!!",
+      "episodeNumber": 742,
+      "publishedTime": 1779438600000,
+      "durationSeconds": 3710,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-700-lightning-rounnndd/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS700.mp3"
+    },
+    {
+      "feed": "Ken and Robin Talk About Stuff",
+      "title": "Episode 701: Star of Arioch Setting",
+      "episodeNumber": 743,
+      "publishedTime": 1780043400000,
+      "durationSeconds": 3480,
+      "infoLink": "https://www.kenandrobintalkaboutstuff.com/index.php/episode-701-star-of-arioch-setting/",
+      "mediaLink": "https://kartas.s3.us-east-1.amazonaws.com/KARTAS701.mp3"
+    }
+  ]
+}

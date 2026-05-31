@@ -25,6 +25,9 @@ for (const station of stations) {
   for (const feed of station.feeds) {
     try {
       const parsed = await fetchAndParse(new URL(feed.rssUrl));
+      if (parsed.episodes.length === 0) {
+        throw new Error("No episodes");
+      }
       feeds.push(parsed.feed);
       parsed.episodes.forEach((episode) => episodes.push(episode));
     } catch (err) {
