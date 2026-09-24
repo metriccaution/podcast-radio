@@ -14,10 +14,10 @@
   "dependencies": {
     "dayjs": "^1.11.23",
     "fast-xml-parser": "^5.11.1",
-    "prettier": "^3.9.6",
+    "prettier": "^3.9.7",
     "react": "^19",
     "react-dom": "^19",
-    "zod": "^4.5.4"
+    "zod": "^4.6.5"
   },
   "devDependencies": {
     "@resvg/resvg-js": "^2.6.2",
